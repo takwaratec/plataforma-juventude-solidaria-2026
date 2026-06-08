@@ -48,14 +48,14 @@ Todo o conteúdo dos **18 PDFs** do repositório (438 páginas) foi extraído pa
 
 | Categoria | Docs | Páginas | Imagens | |
 |-----------|------|---------|---------|-|
-| 📄 Editais | 2 | 7 | 4 | [Acessar](acervo-digitalizado.md) |
-| 🔧 Painéis MPTDF | 2 | 2 | 238 | [Acessar](acervo-digitalizado.md) |
-| 📘 Cartilhas | 2 | 30 | 39 | [Acessar](acervo-digitalizado.md) |
-| 🏦 BNDES | 1 | 27 | 52 | [Acessar](acervo-digitalizado.md) |
-| 🌊 FEHIDRO | 5 | 249 | 572 | [Acessar](acervo-digitalizado.md) |
-| 🗺️ Geolocalização | 3 | 91 | 76 | [Acessar](acervo-digitalizado.md) |
-| 📋 Administrativo | 1 | 4 | 11 | [Acessar](acervo-digitalizado.md) |
-| 🚀 Projetos | 2 | 28 | 16 | [Acessar](acervo-digitalizado.md) |
+| 📄 Editais | 2 | 7 | 4 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/editais) |
+| 🔧 Painéis MPTDF | 2 | 2 | 238 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/paineis_tecnicos) |
+| 📘 Cartilhas | 2 | 30 | 39 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/cartilhas) |
+| 🏦 BNDES | 1 | 27 | 52 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/bndes_bioinsumos) |
+| 🌊 FEHIDRO | 5 | 249 | 572 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/fehidro) |
+| 🗺️ Geolocalização | 3 | 91 | 76 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/geolocalizacao) |
+| 📋 Administrativo | 1 | 4 | 11 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/documentos_administrativos) |
+| 🚀 Projetos | 2 | 28 | 16 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/projetos) |
 | **TOTAL** | **18** | **438** | **1.005** | [📂 Ver acervo completo →](acervo-digitalizado.md) |
 
 ---
