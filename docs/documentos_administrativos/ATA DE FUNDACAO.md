@@ -64,4 +64,4 @@ Anna Marques van der Veld Secretário(a) da Mesa
 
 Assinatura da pessoa responsável - [[Gov.Br]{.underline}](http://gov.br)
 
-![](media/image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}
+![](../assets/images/ata_de_fundacao_image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}

@@ -26,7 +26,7 @@ O(A) Sr.(a) Murillo Miguel Moura Carvalho que constatou a existência de quórum
 
 ### **2. Ordem do Dia**
 
-O Presidente da Mesa Eleitoral e informou que a presente Assembleia foi convocada por meio de Edital publicado em 7 de maio de 2026, fixado na sede da entidade, com a seguinte ![](media/image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}Ordem do Dia::
+O Presidente da Mesa Eleitoral e informou que a presente Assembleia foi convocada por meio de Edital publicado em 7 de maio de 2026, fixado na sede da entidade, com a seguinte ![](../assets/images/15_-_ata_de_eleicao_da_diretoria_image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}Ordem do Dia::
 
 a)  Apresentação das chapas/candidaturas concorrentes para a nova Mesa Diretora/Diretoria Executiva e Conselho Fiscal (se houver);
 
@@ -66,7 +66,7 @@ Os eleitos, presentes ao ato, declararam aceitar os respectivos cargos para os q
 
 ### 
 
-### ![](media/image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}**5. Encerramento**
+### ![](../assets/images/15_-_ata_de_eleicao_da_diretoria_image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}**5. Encerramento**
 
 Nada mais havendo a tratar, a presidência da mesa deu por encerrada a Assembleia Geral, da qual eu, Anna Marques van der Veld, secretariei e lavrei a presente ata que, após lida e aprovada, segue assinada por mim, pelo Presidente da mesa eleitoral e pelos membros eleitos e empossados.
 
@@ -86,4 +86,4 @@ Zaqueu Miguel de Carvalho
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Assinatura da pessoa responsável - [[Gov.Br]{.underline}](http://gov.br)![](media/image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}
+Assinatura da pessoa responsável - [[Gov.Br]{.underline}](http://gov.br)![](../assets/images/15_-_ata_de_eleicao_da_diretoria_image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}

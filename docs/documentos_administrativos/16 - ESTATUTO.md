@@ -36,7 +36,7 @@ III - Cumprir as deliberações das Assembleias
 
 ### **CAPÍTULO III -- Da Administração**
 
-![](media/image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}**Art. 6º** -- A organização será administrada pelos seguintes órgãos:
+![](../assets/images/16_-_estatuto_image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}**Art. 6º** -- A organização será administrada pelos seguintes órgãos:
 
 I - Assembleia Geral;
 
@@ -78,7 +78,7 @@ II - Votação em Assembleia Geral específica;
 
 III - Apuração imediata dos votos e proclamação do resultado;
 
-![](media/image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}IV - Posse imediata dos eleitos.
+![](../assets/images/16_-_estatuto_image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}IV - Posse imediata dos eleitos.
 
 **Art. 15. -** Em caso de vacância de cargo, a Assembleia Geral deliberará sobre o preenchimento.
 
@@ -90,7 +90,7 @@ III - Apuração imediata dos votos e proclamação do resultado;
 
 **CAPÍTULO V -- Da Dissolução e Das Alterações Contratuais**
 
-**Art. 18.** -- A associação poderá ser dissolvida a qualquer tempo, por deliberação de ![](media/image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}Assembleia Geral Extraordinária específica.
+**Art. 18.** -- A associação poderá ser dissolvida a qualquer tempo, por deliberação de ![](../assets/images/16_-_estatuto_image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}Assembleia Geral Extraordinária específica.
 
 **Parágrafo único.** Em caso de dissolução, o patrimônio líquido remanescente será destinado a outra instituição sem fins lucrativos congênere, registrada no Conselho Nacional de Assistência Social ou entidade pública.
 
@@ -112,4 +112,4 @@ Murillo Miguel Moura Carvalho Presidente
 
 Assinatura da pessoa responsável - [[Gov.Br]{.underline}](http://gov.br)
 
-![](media/image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}
+![](../assets/images/16_-_estatuto_image3.png){width="1.8557250656167978in" height="0.9004111986001749in"}

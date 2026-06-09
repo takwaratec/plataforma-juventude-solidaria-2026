@@ -39,7 +39,7 @@ O presente relato apresenta as discussões e ações desenvolvidas no Biocentro 
 
 **Figura 1:** atividades realizadas em mutirões no Sítio Terra Viva. (A) Plantio de Gliricídia por estaquia; (B) Assentado com camisa estampada: "Manejar é dialogar com as plantas"; (C) Horta em sistema de SAFA; (D) Manejo agroflorestal com poda de bananeira com o intuito de prevenção de praga, conhecida como 'Broca' ou 'moleque da bananeira' .
 
-![](media/image7.png){width="6.267716535433071in" height="4.430555555555555in"}
+![](../assets/images/terra_viva_relato_de_experiencia_tecnica_13_cba_image7.png){width="6.267716535433071in" height="4.430555555555555in"}
 
 **Fonte**: autoria própria, 2025.
 
@@ -47,7 +47,7 @@ As metodologias escolhidas, através de ações práticas, coletivas e semanais,
 
 **Figura 2:** atividades realizadas em mutirões no Sítio Terra Viva. (A) Mutirão de manejo preventivo de incêndio; (B) Plantio de múltiplas espécies de cana crioula; © Aula sobre tipos de café; (D) Mutirão de manejo.
 
-![](media/image3.jpg){width="6.267716535433071in" height="4.430555555555555in"}
+![](../assets/images/terra_viva_relato_de_experiencia_tecnica_13_cba_image3.jpg){width="6.267716535433071in" height="4.430555555555555in"}
 
 **Fonte**: autoria própria, 2025.
 
@@ -57,7 +57,7 @@ Cada mutirão, oficina, formação e as atividades integradoras com outras entid
 
 **Figura 3:** atividades realizadas em mutirões no Sítio Terra Viva. (A) Foto 1 do grupo de mutirão em bioconstrução; (B) Plantio de múltiplas espécies de cana crioula; (C) Formação sobre ecologia marxista; (D) Mutirão de bioconstrução .
 
-![](media/image4.jpg){width="6.267716535433071in" height="4.430555555555555in"}
+![](../assets/images/terra_viva_relato_de_experiencia_tecnica_13_cba_image4.jpg){width="6.267716535433071in" height="4.430555555555555in"}
 
 **Fonte**: autoria própria, 2025.
 

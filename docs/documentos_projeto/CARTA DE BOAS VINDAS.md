@@ -1,4 +1,4 @@
-**CARTA DE BOAS VINDAS**![13524437_1091662064233695_6759922633316788369_n.png](media/image1.png){width="1.8177088801399826in" height="1.8177088801399826in"}
+**CARTA DE BOAS VINDAS**![13524437_1091662064233695_6759922633316788369_n.png](../assets/images/carta_de_boas_vindas_image1.png){width="1.8177088801399826in" height="1.8177088801399826in"}
 
 É com grande satisfação que o Sítio Agroflorestal dá as boas vindas aos participantes da Vivência Agroflorestal Terra Viva: Ecologia, Política, Economia, Emancipação e Comida de Verdade. Nesse documento constam algumas informações importantes, leiam atentamente!
 
@@ -130,11 +130,11 @@ Toda a alimentação do curso será preparada no próprio Sítio Agroflorestal c
 
 **CLIMA, TEMPO**
 
-![](media/image2.png){width="4.045483377077865in" height="2.8802088801399823in"}
+![](../assets/images/carta_de_boas_vindas_image2.png){width="4.045483377077865in" height="2.8802088801399823in"}
 
 **COMO CHEGAR**
 
-![mapa mario lago (curso).png](media/image3.png){width="5.958333333333333in" height="3.7291666666666665in"}**\
+![mapa mario lago (curso).png](../assets/images/carta_de_boas_vindas_image3.png){width="5.958333333333333in" height="3.7291666666666665in"}**\
 [[Referência, como chegar: São Paulo - SP \-\-\-\-\-\--\> Acampamento Mario Lago, Sítio Terra Viva]{.underline}](https://www.google.com.br/maps/dir/Estrada+Celso+Furtado,+Ribeir%C3%A3o+Preto+-+SP/S%C3%A3o+Paulo+-+SP/@-21.1539885,-47.7502315,13z/data=!4m13!4m12!1m5!1m1!1s0x94b9c102f40c9d27:0x9349bc1ca065e773!2m2!1d-47.7227942!2d-21.1516272!1m5!1m1!1s0x94ce448183a461d1:0x9ba94b08ff335bae!2m2!1d-46.6333094!2d-23.5505199?hl=pt-BR)**
 
 **DESLOCAMENTO**

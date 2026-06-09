@@ -14,3 +14,6 @@ site/
 .venv/
 __pycache__/
 
+
+# Ignorar binarios pesados
+_arquivos_originais_brutos/

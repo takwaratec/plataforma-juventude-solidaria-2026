@@ -68,7 +68,7 @@
 
   - **CPF nº:** \[000.000.000-00\]
 
-  - ![](media/image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}**Endereço Residencial:** \[Endereço Completo\]
+  - ![](../assets/images/relacao_nominal_de_dirigentes_image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}**Endereço Residencial:** \[Endereço Completo\]
 
 *(Adicionar quantos dirigentes forem necessários seguindo este mesmo formato)*
 
@@ -122,4 +122,4 @@
 
 Assinatura da pessoa responsável - [[Gov.Br]{.underline}](http://gov.br)
 
-![](media/image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}
+![](../assets/images/relacao_nominal_de_dirigentes_image1.png){width="1.8557250656167978in" height="0.9004111986001749in"}
