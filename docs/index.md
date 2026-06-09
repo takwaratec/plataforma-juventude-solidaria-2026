@@ -64,6 +64,7 @@ Todo o conteúdo dos **18 PDFs** do repositório (438 páginas) foi extraído pa
 
 | Data | Evento |
 |------|--------|
+| 08/06/2026 | 📜 História dos coletivos: linha do tempo do Mário Lago e EcoSala publicada |
 | 08/06/2026 | 📚 Acervo digitalizado: 18 PDFs → .md + 1.005 imagens extraídas |
 | 05/06/2026 | Proposta final do Viveiro-Educador consolidada |
 | 05/05/2026 | 🚀 **Reunião Inaugural EcoSala Móvel** — 14 participantes |
@@ -75,7 +76,7 @@ Todo o conteúdo dos **18 PDFs** do repositório (438 páginas) foi extraído pa
 
 O **ECOSALA Móvel** é um núcleo de pesquisadores, professores e profissionais 60+ que atuam via **ATER** apoiando coletivos juvenis na captação de recursos em editais.
 
-[Conheça os atores →](atores.md)
+[Conheça os atores →](atores.md) | [📜 História dos coletivos →](historia.md)
 
 ---
 
