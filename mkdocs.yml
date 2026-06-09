@@ -1,0 +1,93 @@
+# ===================================================================
+#          MKDOCS.YML - PLATAFORMA JUVENTUDE SOLIDÁRIA 2026
+# ===================================================================
+
+site_name: Juventude Solidária
+site_url: https://takwaratec.github.io/plataforma-juventude-solidaria-2026/
+repo_name: plataforma-juventude-solidaria-2026
+repo_url: https://github.com/takwaratec/plataforma-juventude-solidaria-2026
+edit_uri: ''
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/images/terra_viva.png
+  favicon: assets/images/terra_viva.png
+  features:
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - navigation.sticky
+    - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.collapse
+  palette:
+    - scheme: slate
+      primary: green
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Mudar para o modo escuro
+    - scheme: default
+      primary: green
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Mudar para o modo claro
+
+
+extra:
+  csp_nonce: "a-random-string-of-your-choice"
+
+extra_css:
+  - assets/css/custom.css
+  - assets/css/extra.css
+  - https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10.9.0/dist/mermaid.min.js
+  - path: https://unpkg.com/vis-network/standalone/umd/vis-network.min.js
+    defer: true
+  - path: https://cdn.jsdelivr.net/npm/marked/marked.min.js
+    defer: true
+  - path: https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
+    defer: true
+  - path: assets/js/custom.js
+    defer: true
+  - path: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+    defer: true
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - md_in_html
+  - admonition
+
+nav:
+  - "Início": index.md
+  - "O Território": territorio.md
+  - "Quem Somos": atores.md
+  - "Nossa História": historia.md
+  - "Projetos":
+    - "Viveiro-Educador": projetos/viveiro-educador.md
+    - "Biofábricas BNDES": projetos/biofabricas-bndes.md
+  - "Acervo Digitalizado": acervo-digitalizado.md
+  - "Documentos do Projeto":
+    - "Carta de Boas Vindas": documentos_projeto/CARTA DE BOAS VINDAS.md
+    - "Folha de Rosto": documentos_projeto/Folha de rosto.md
+    - "Plano de Oficinas 2026": documentos_projeto/Projeto2026.md
+    - "Relato CBA Terra Viva": documentos_projeto/Terra Viva_Relato de Experiencia Tecnica_13 CBA.md
+    - "Declaração Comunitária": documentos_projeto/declaracao-comunidade-1024.md
+    - "Formulário Mata Atlântica": documentos_projeto/formulario-mata-atlantica-25.md
+  - "Documentos Administrativos":
+    - "Ata de Fundação": documentos_administrativos/ATA DE FUNDACAO.md
+    - "Estatuto do Coletivo": documentos_administrativos/16 - ESTATUTO.md
+    - "Ata de Eleição": documentos_administrativos/15 - ATA DE ELEICAO DA DIRETORIA.md
+    - "Relação de Dirigentes": documentos_administrativos/RELACAO NOMINAL DE DIRIGENTES.md
+
+

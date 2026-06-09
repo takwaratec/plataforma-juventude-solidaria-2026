@@ -68,7 +68,9 @@ Construção de um viveiro de mudas com estrutura de **bambu tratado ecologicame
 
 ## 📸 Registros
 
-*[Fotos e vídeos serão adicionados durante a execução]*
+![Esquema Técnico do Viveiro Agroecológico e Sistema de Tratamento MPTDF](../assets/images/viveiro_bambu_rocket_stove.png)
+
+*Esquema ilustrativo do Viveiro 4m x 8m estruturado em bambu com cobertura de sombrite e da unidade autoclave móvel MPTDF (4 bombonas plásticas em série interligadas à panela de pressão de 30L no Rocket Stove).*
 
 ---
 

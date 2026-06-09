@@ -8,3 +8,9 @@ desktop.ini
 *.tmp
 *.swp
 *~
+
+# Build directories
+site/
+.venv/
+__pycache__/
+

@@ -1,8 +1,11 @@
 # 🌱 Plataforma Juventude Solidária — Acompanhamento Público
 
+![Viveiro-Educador Terra Viva](assets/images/viveiro_bambu_rocket_stove.png){ width="100%" }
+
 **Viveiro-Educador Terra Viva | Assentamento Mário Lago — APA Guarani**
 
 Bem-vindo ao portal de **transparência e governança aberta** dos projetos de captação de recursos para comunidades da reforma agrária na região de Ribeirão Preto/SP.
+
 
 ---
 
