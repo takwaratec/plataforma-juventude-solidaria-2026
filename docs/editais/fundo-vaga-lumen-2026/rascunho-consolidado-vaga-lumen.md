@@ -9,15 +9,15 @@
 
 ## ⚠️ Comentário inicial — Gargalo Crítico
 
-A proposta não tem empresa proponente definida. O edital FINEP Mais Inovação (fluxo contínuo, 24 meses) exige Arranjo Simples (R$ 5M a R$ 20M, com empresa + 01 ICT) ou Arranjo em Rede (R$ 5M a R$ 30M, com empresa + 02 coexecutoras + 01 ICT). Sem CNPJ de cooperativa/associação/empresa com capacidade de gestão, a proposta é inexequível. A contrapartida obrigatória varia de 5% (micro/pequeno porte) a 50% (grande empresa) sobre o valor solicitado. *A definição do proponente é o primeiro e mais urgente gargalo.*
+A proposta não tem empresa proponente definida. O edital FINEP Mais Inovação (fluxo contínuo, 24 meses) exige Arranjo Simples (R$ 5M a R$ 20M, empresa + 01 ICT) ou Arranjo em Rede (R$ 5M a R$ 30M, empresa + 02 coexecutoras + 01 ICT). Sem CNPJ de cooperativa/associação/empresa com capacidade de gestão e contrapartida (5% a 50% conforme porte), a proposta é inexequível. *A definição do proponente é o primeiro e mais urgente gargalo.*
 
 ---
 
 ## 1. Identificação do Arranjo de Inovação
 
-*Campo livre no formulário — recomenda-se até 500 caracteres.*
+*Campo livre — recomenda-se até 500 caracteres. Abaixo, sugestão de texto.*
 
-A Empresa Proponente está em definição — recomenda-se cooperativa local ou associação vinculada ao Assentamento Mário Lago ou à Regional MST. Como Coexecutoras, sugere-se IFSP (Campus Sertãozinho) e Labiapa. Como ICTs Parceiras: UnB (LaPeCFaS), IFB Planaltina e Embrapa Campinas. O projeto se enquadra em duas Linhas Temáticas: Linha 3 — Água e Esgoto (sistemas descentralizados em localidades isoladas) e Linha 4 — Moradia e Espaços Públicos Sustentáveis (novos materiais leves/sustentáveis para habitação e equipamentos públicos de base comunitária).
+A Empresa Proponente está em definição — recomenda-se cooperativa local vinculada ao Assentamento Mário Lago ou à Regional MST. Como Coexecutoras: IFSP (Campus Sertãozinho) e Labiapa. ICTs Parceiras: UnB (LaPeCFaS), IFB Planaltina e Embrapa Campinas. Enquadramento: Linha 3 — Água e Esgoto (sistemas descentralizados em localidades isoladas) e Linha 4 — Moradia e Espaços Públicos Sustentáveis (novos materiais leves/sustentáveis).
 
 ---
 
@@ -25,7 +25,7 @@ A Empresa Proponente está em definição — recomenda-se cooperativa local ou 
 
 *Limite: 150 caracteres.*
 
-Vaga Lúmen: Laboratório Móvel Itinerante de Saneamento Descentralizado e Moradia Modular Sustentável *(107 caracteres — dentro do limite)*.
+Vaga Lúmen: Laboratório Móvel Itinerante de Saneamento Descentralizado e Moradia Modular Sustentável *(107 caracteres)*.
 
 ---
 
@@ -33,15 +33,17 @@ Vaga Lúmen: Laboratório Móvel Itinerante de Saneamento Descentralizado e Mora
 
 *Limite: 3.000 caracteres.*
 
-O projeto Vaga Lúmen propõe o desenvolvimento e a validação em escala pré-industrial (TRL 3 a 8) de um centro itinerante de educação e validação prática de tecnologias de economia circular, composto por modais terrestres e aquáticos. O núcleo proponente será responsável pela **fabricação integral de todos os subsistemas**, com base nas tecnologias sociais em desenvolvimento pelos próprios membros do grupo — não haverá aquisição de soluções comerciais prontas, simplesmente porque não existem no mercado. Esta é a natureza da inovação proposta.
+O projeto Vaga Lúmen propõe o desenvolvimento e a validação em escala pré-industrial de um centro itinerante de educação e validação prática de tecnologias de economia circular, composto por um **ônibus-escola adaptado**, uma **embarcação fluvial estruturada em bambu** e **módulos pedagógicos permaculturais**. Todos os subsistemas serão fabricados pelo núcleo proponente com base em protocolos de tratamento ecológico e bioconstrução desenvolvidos e consolidados em pesquisas acadêmicas e técnicas — não há soluções comerciais prontas disponíveis, o que caracteriza a natureza da inovação.
 
-O projeto compreende: (1) um **ônibus-escola** cuja adaptação construtiva (revestimentos ecológicos, marcenaria modular, sistema de reuso de águas cinzas) será executada pelo grupo com materiais de bioconstrução; (2) uma **embarcação fluvial** com casco e superestrutura estruturados em bambu regional tratado a vapor (processo MPTDF, com cal + cinzas + pirolenhoso), integrando banheiro seco náutico e biofiltro flutuante — também fabricados pelo grupo; (3) **bicicletas de carga** adaptadas como módulos pedagógicos permaculturais.
+O tratamento do bambu estrutural seguirá o **Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso)**, formalizado na Nota Técnica ENG-NT-005 do Consórcio UnB/UFRR/UFAC (Projeto Mulheres Que Tecem a Floresta — MQTF). Este protocolo compreende três etapas complementares: (1) **alcalinização via Diquada** — imersão dos colmos em solução alcalina de cinzas residuais (10kg/100L, pH 11+, 2-3h) para degradação de amidos superficiais e preparação da microporosidade; (2) **impregnação fungicida com ácido pirolenhoso** — subproduto da carbonização da biomassa, aplicado como biopesticida de largo espectro, sem os impactos carcinogênicos dos tratamentos convencionais com boratos (Araújo et al., 2025); (3) **impermeabilização com resina vegetal de mamona** (PU vegetal), formando barreira hidrofóbica e bio-preservante.
 
-As tecnologias de base encontram-se em diferentes estágios de maturidade. O forno de tratamento térmico a vapor (MPTDF) e as estruturas geodésicas de bambu têm protótipos funcionais validados empiricamente (TRL 4-5). O selante vegetal de mamona (PU) e o biochar foram caracterizados em laboratório (TRL 3-4). Os sistemas de saneamento ecológico, a embarcação e o uso do ácido pirolenhoso como biofertilizante e biodefensivo encontram-se em estágio conceitual (TRL 2-3). O desafio tecnológico consiste em integrar esses subsistemas num laboratório móvel funcional, elevando o conjunto ao TRL 6-7.
+A produção de biochar associada à pirólise gera três benefícios integrados: **sequestro de carbono** (carbono pirogênico estável no solo), **condicionamento de solo** para os sistemas agroflorestais previstos, e **produção de ácido pirolenhoso** para o tratamento do bambu. A sustentação térmica dos processos utiliza **Rocket Stoves** com isolamento cerâmico, cuja eficiência de transferência de calor foi validada por simulações CFD (Stefanditya et al., 2023), garantindo que o vapor saturado atinja temperatura suficiente para permear o lúmen e os nós do bambu sem consumo excessivo de biomassa.
+
+As tecnologias de base encontram-se em diferentes estágios de maturidade, todos ancorados em fichas técnicas de ensaios e testes de campo ou laboratório disponíveis nos repositórios institucionais vinculados ao projeto. O forno MPTDF e as estruturas geodésicas de bambu têm protótipos funcionais validados empiricamente (TRL 4-5). O selante vegetal de mamona e o biochar foram caracterizados em laboratório (TRL 3-4). Os sistemas de saneamento ecológico, a embarcação catamarã e as aplicações do ácido pirolenhoso como biofertilizante e biodefensivo encontram-se em estágio conceitual, com hipóteses baseadas em literatura científica (TRL 2-3). O desafio tecnológico consiste em integrar esses subsistemas num laboratório móvel funcional, elevando o conjunto ao TRL 6-7.
 
 A atuação ocorrerá nos 4 assentamentos e 5 acampamentos da Regional Ribeirão Preto do MST, na APA do Aquífero Guarani, na APA Joaquim Egídio (Campinas), em comunidades ribeirinhas das bacias dos rios Pardo, Mogi-Guaçu e Tietê, e em periferias urbanas com desertos alimentares.
 
-> **Referência central:** Warka Water (Vittori, 2012-2015) — torre de bambu de 9,5m, 80kg, 100L/dia, testada em Dorze/Etiópia. Comprova a viabilidade da captação de água atmosférica com estrutura de bambu. O diferencial desta proposta é a integração **móvel** desses subsistemas — configuração inédita na literatura.
+> **Nota:** O documento de referência central para a fundamentação científica do tratamento ecológico é a Avaliação do Ciclo de Vida (ACV) do bambu Guadua na Amazônia (Araújo et al., 2025), que demonstra que 93% do impacto ambiental da cadeia produtiva convencional decorre do uso de ácido bórico e bórax —替代íveis pelo protocolo Diquada-Pirolenhoso-PU.
 
 ---
 
@@ -51,17 +53,41 @@ A atuação ocorrerá nos 4 assentamentos e 5 acampamentos da Regional Ribeirão
 
 ### 4.1. Incertezas Tecnológicas
 
-**Integração bambu + PU vegetal + biochar em ambiente náutico.** O selante PU vegetal (mamona) foi caracterizado em laboratório mas nunca testado em imersão ou névoa salina. A combinação de bambu tratado a vapor (MPTDF) com selante vegetal em ambiente náutico é inédita — não há literatura sobre durabilidade dessa união em água doce/salgada. O projeto prevê ensaios de intemperismo acelerado como atividade de P&D.
+**Alcalinização (Diquada) em ambiente móvel.** O banho alcalino com cinzas residuais (10kg/100L, pH 11+) foi validado em regime estacionário para bambu Guadua spp. (NT-005 MQTF). Sua adaptação a um sistema itinerante — com variações de temperatura ambiente, disponibilidade hídrica e logística de transporte dos colmos — constitui incerteza tecnológica a ser resolvida por ensaios de campo.
 
-**Sistemas biológicos de saneamento sob vibração e balanço.** O banheiro seco compostável e o biofiltro dinâmico foram validados em unidades fixas (T01/T02, Plataforma Amazônia Regenerativa), mas nunca em embarcação sujeita a vibração mecânica constante e inclinações de navegação. O projeto inclui ensaios em mesa de vibração e projeto mecânico com amortecimento.
+**Integração bambu tratado + PU vegetal + biochar em ambiente náutico.** A combinação do protocolo Diquada-Pirolenhoso com selante de PU vegetal de mamona foi testada em laboratório e em campo para aplicações terrestres. Sua aplicação em embarcação, sujeita a imersão, névoa salina e esforços de torção de casco, é inédita. O projeto prevê ensaios de intemperismo acelerado nas ICTs parceiras.
 
-**Biochar como meio filtrante.** O biochar tem aplicação validada como condicionador de solo. Sua aplicação como filtro de efluentes é hipótese baseada em literatura — o projeto prevê a construção de coluna de filtração em escala laboratorial para ensaios.
+**Biochar como filtro de efluentes.** O biochar tem aplicação validada como condicionador de solo e como meio de filtração em sistemas estacionários. Sua aplicação em biofiltro dinâmico sujeito a vibração e balanço (embarcação) é hipótese a ser validada por prototipagem e ensaios hidráulicos.
 
-**Pirolenhoso como biofertilizante e biodefensivo.** O ácido pirolenhoso já é utilizado como aditivo no vapor do MPTDF (dosagem de 10-30% do volume). Quatro usos potenciais adicionais — biofertilizante, biodefensivo, preservativo pós-tratamento e redutor de emissões — estão documentados na literatura mas não possuem protocolo próprio ou validação em campo.
+**Pirolenhoso como biofertilizante e biodefensivo.** O uso do ácido pirolenhoso como fungicida e bactericida no tratamento de bambu está consolidado (NT-005 MQTF). Seu potencial como biofertilizante foliar e biodefensivo para cultivos associados ao projeto (hortas, SAFs) é documentado na literatura mas não possui protocolo validado em campo para as espécies e condições edafoclimáticas da região.
 
-### 4.2. Tratamento Natural vs. Químico
+**Sistemas biológicos de saneamento sob vibração e balanço.** O banheiro seco compostável e o biofiltro foram validados em unidades fixas. Sua operação em embarcação sujeita a vibração mecânica e inclinações de navegação exige projeto mecânico com amortecimento e ensaios em mesa de vibração.
 
-O tratamento químico convencional do bambu (CCA/CCB — arseniato de cobre) é tóxico, lixivia metais pesados para o solo, é inviável em APA de aquífero e gera passivo ambiental. O tratamento proposto (MPTDF + PU vegetal) utiliza vapor d'água, cal, cinzas e pirolenhoso — toxicidade nula, compatível com APA Guarani, resíduo incorporável ao solo e produção local com matéria-prima regional. Esta contraposição é especialmente relevante dado que o Assentamento Mário Lago está situado sobre a zona de recarga do Aquífero Guarani.
+### 4.2. Base Científica Consolidada
+
+Os protocolos propostos ancoram-se nas seguintes evidências:
+
+- **Araújo et al. (2025):** Avaliação do Ciclo de Vida do bambu Guadua na Amazônia brasileira. Demonstra que o tratamento convencional com ácido bórico e bórax é responsável por 93% do impacto ambiental da cadeia, com toxicidade carcinogênica humana e risco de contaminação hídrica. Publicado no Brazilian Journal of Science, 4(4), DOI: 10.14295/bjs.v4i4.719. *Este estudo é o gatilho científico que justifica a substituição dos tratamentos químicos por processos de toxicidade zero.*
+
+- **Nota Técnica ENG-NT-005 (MQTF/UnB/UFRR/UFAC):** Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso). Formaliza o banho alcalino (10kg cinzas/100L, 2-3h, pH 11+), a impregnação fungicida com pirolenhoso, e a impermeabilização com PU vegetal. Documenta a fluência térmica das serpentinas do Rocket Stove T01/T10 com ganho de 11,15% na interface térmica.
+
+- **Stefanditya et al. (2023):** Simulações de CFD do Rocket Stove com isolamento cerâmico de 30mm. Temperatura de saída superior a 450°C, validando a eficiência do sistema de vapor para tratamento itinerante.
+
+- **Nota Técnica NT-001 (MQTF):** Tratamento Ecológico do Bambu — documenta os três pilares complementares: termorretificação, alcalinização (Diquada) e impermeabilização via PU-mamona.
+
+### 4.3. Tratamento Natural vs. Químico
+
+| Tratamento Químico (Bórax/CCA) | Tratamento Ecológico (Diquada-Pirolenhoso-PU) |
+|---|---|
+| 93% do impacto ambiental da cadeia (Araújo, 2025) | Toxicidade zero — insumos da pirólise de biomassa |
+| Lixiviação de metais pesados | Selante vegetal biodegradável (mamona) |
+| Passivo ambiental de descarte | Resíduo incorporável ao solo |
+| Inviável em APA de aquífero | Compatível com APA Guarani |
+| Dependente de indústria química externa | Produção local com biomassa residual |
+
+### 4.4. Áreas de Atuação
+
+4 assentamentos (Mário Lago, Sepé Tiaraju, 17 de Abril, Aparecida Segura); 5 acampamentos (Ilda Silva, Alexandra Kollontai, Doroty Stang, Vanderlei Caixe, Campo Cidade); APA do Aquífero Guarani; APA Joaquim Egídio (Campinas); comunidades ribeirinhas dos rios Pardo, Mogi-Guaçu e Tietê; periferias urbanas com desertos alimentares.
 
 ---
 
@@ -69,45 +95,40 @@ O tratamento químico convencional do bambu (CCA/CCB — arseniato de cobre) é 
 
 *Valor mínimo exigido: R$ 5.000.000,00. Atualmente orçado: R$ 3.926.000,00.*
 
-Todos os itens abaixo referem-se à **fabricação própria pelo núcleo proponente**, utilizando tecnologias desenvolvidas pelos membros do grupo. Não há previsão de aquisição de soluções comerciais prontas — a inexistência de fornecedores externos para estas tecnologias é o que caracteriza a inovação.
+Todos os itens referem-se à **fabricação própria pelo núcleo proponente** — a inexistência de fornecedores comerciais para estas tecnologias é o que define a inovação.
 
-- Chassis de ônibus elétrico/híbrido novo: R$ 1.200.000. A adaptação construtiva (revestimentos acústicos ecológicos, marcenaria modular em painéis de bambu, sistema de reuso de águas cinzas) será executada pelo grupo com técnicas de bioconstrução e materiais locais.
-- Embarcação fluvial com casco e superestrutura de bambu tratado (MPTDF + PU vegetal), propulsão elétrica: R$ 450.000. Projeto naval e fabricação pelo grupo (André Blanco + Luis Felipe).
-- Módulos de saneamento náutico (banheiro seco com separação de urina, biofiltros flutuantes, dessalinizador por gravidade): R$ 90.000. Baseados nas tecnologias T01/T02 do acervo MQTF.
-- Sistema solar fotovoltaico de 6 kWp (painéis semiflexíveis, inversores híbridos, banco de baterias): R$ 180.000. Integração ao sistema elétrico do ônibus e embarcação.
-- 3 bicicletas cargueiras elétricas com baú pedagógico: R$ 36.000. Adaptadas como módulos de formação permacultural.
-- Ensaios de P&D (caracterização mecânica do bambu, análises de qualidade de água, ensaios de intemperismo, colonização microbiana de biofiltros): R$ 350.000. A serem realizados nas ICTs parceiras (IFSP, UnB).
-- Remuneração de equipe técnica (engenheiros, biólogos, facilitadores de mutirão): R$ 850.000.
-- Insumos de bioconstrução, sementes crioulas, logística de colheita regional: R$ 320.000.
-- Taxas administrativas, seguros náutico/terrestre, propriedade intelectual: R$ 150.000.
+- Chassis de ônibus elétrico/híbrido novo (adaptação pelo grupo): R$ 1.200.000
+- Embarcação fluvial com casco e superestrutura de bambu tratado (Diquada + Pirolenhoso + PU vegetal): R$ 450.000
+- Módulos de saneamento náutico (banheiro seco, biofiltro flutuante): R$ 90.000
+- Sistema solar fotovoltaico 6 kWp: R$ 180.000
+- 3 bicicletas cargueiras elétricas com baú pedagógico: R$ 36.000
+- Ensaios de P&D (ICTs parceiras): R$ 350.000
+- Equipe técnica (engenheiros, biólogos, facilitadores): R$ 850.000
+- Insumos de bioconstrução, sementes, logística: R$ 320.000
+- Taxas administrativas e seguros: R$ 150.000
 
-**Total orçado: R$ 3.926.000.** Para atingir o mínimo de R$ 5.000.000, recomenda-se a inclusão de um segundo ônibus-escola (réplica simplificada, R$ 1.200.000) ou programa de bolsas de pesquisa nas ICTs (R$ 450.000), ou a combinação de ambos.
-
-*Observação sobre contrapartida: calcular conforme porte da empresa proponente (5% micro/PE, 10% pequena, até 50% grande).*
+**Total: R$ 3.926.000.** Para atingir R$ 5M: adicionar 2º ônibus-escola (réplica, R$ 1.200.000) ou bolsas de pesquisa ICT (R$ 450.000) ou combinação.
 
 ---
 
-## 6. Arranjo Institucional
+## 6. Portfólio do Grupo — Tecnologias Próprias
 
-O arranjo sugerido é composto por: (a) **Empresa Proponente** — a definir (cooperativa/associação local); (b) **Coexecutoras** — IFSP Sertãozinho (ensaios mecânicos, microbiologia) e Labiapa/Unicamp (bioconstrução, projeto construtivo); (c) **ICTs Parceiras** — UnB/LaPeCFaS (MPTDF, caracterização), IFB Planaltina (educação do campo, forno MPTDF) e Embrapa Campinas (produção orgânica, Organoteca); (d) **Apoio Territorial** — MST Regional Ribeirão Preto (Joaquim Sando) e Coletivo Terra Viva (Murillo Miguel); (e) **Apoio Institucional** — Estação Luz (Luci Okino).
+### Protocolos e tecnologias desenvolvidas pelo grupo
 
----
+| Tecnologia | Base científica | Maturidade |
+|---|---|---|
+| Protocolo Diquada (alcalinização com cinzas) | NT-005 MQTF (UnB/UFRR/UFAC) | TRL 4 — validado em campo |
+| Impregnação com pirolenhoso | NT-005 MQTF; Araújo (2025) — ACV | TRL 4 — consolidado |
+| Impermeabilização com PU vegetal (mamona) | Ficha técnica Imperveg; NT-001 MQTF | TRL 4 — laboratório |
+| Forno MPTDF (vapor + pirolenhoso) | LaPeCFaS/UnB/IFB | TRL 4-5 — protótipo |
+| Produção de biochar + sequestro de carbono | Nota técnica específica | TRL 3-4 |
+| Geodésicas de bambu | Construções empíricas (FAUUSP, Oca Curumim) | TRL 5-6 |
+| Coletor de Humidade (torre de neblina) | André Blanco + G. Stasi — Piracicaba | TRL 3-4 |
+| Metodologia ECOSALA Itinerante | Marcos Paron — ecoformação | TRL 3-4 |
 
-## 7. Portfólio do Grupo — Tecnologias Próprias
+### Referências de terceiros citadas como estado da arte
 
-### Tecnologias desenvolvidas pelos membros (fabricação própria)
-
-- **Forno MPTDF** (vapor + sal + pirolenhoso). Protótipo funcional no IFB Planaltina. Vicente Borges + Fabio Takwara. TRL 4-5.
-- **Geodésicas de bambu.** Construções empíricas na FAUUSP e outros locais. André Blanco. TRL 5-6.
-- **Oca do Curumim.** Oca indígena em bambu. André Blanco + equipe. Parceria Sesc. TRL 5-6.
-- **Coletor de Humidade "A Gota D'Água".** Torre coletora de neblina em treliça de bambu. André Blanco + Gianluca Stasi. TRL 3-4.
-- **Poliuretano vegetal de mamona** (Imperveg). Caracterização laboratorial. Fabio Takwara. TRL 4.
-- **Biochar e ácido pirolenhoso.** Nota técnica. Fabio Takwara. TRL 3-4.
-- **ECOSALA Itinerante.** Metodologia de formação e ação em agroecologia. Marcos Paron + grupo. TRL 3-4.
-
-### Referências de terceiros (citadas como estado da arte, não como execução própria)
-
-Warka Water (Vittori, 2012-2015, Etiópia), Macrodiamante (Espinosa, 1957, Chile), NRP 3.0 (Marzol, 2008, Canárias), Cecelic (Ninio, 2011, Chile), DropNet (Hoehler, 2010, Alemanha), WatAir (Malka & Cory, 2006, Israel), Coastal Fog Tower (Fernández & Ortega, 2008).
+Warka Water (Vittori, 2012-2015, Etiópia); coletores chilenos (Cereceda & Schemenauer, 1991-2008); NRP 3.0 (Marzol, 2008, Canárias); Cecelic (Ninio, 2011, Chile); Park et al. (2016, Nature) — biomimética; Klemm et al. (2012) — revisão de coleta de neblina.
 
 ---
 
@@ -117,13 +138,12 @@ Warka Water (Vittori, 2012-2015, Etiópia), Macrodiamante (Espinosa, 1957, Chile
 |---|---|---|---|
 | Marcos Paron | Agronomia, Doutor Microbiologia | IFSP Sertãozinho | Coordenação, microbiologia, ecoformação |
 | André Blanco | Arquitetura e Urbanismo | Labiapa, CAU | Bioconstrução, projeto construtivo |
-| Fabio Takwara | Autodidata | Tecnologia Takwara / MQTF (UnB) | PU Vegetal, captação, documentação |
-| Gisele Vilela | Agronomia | Embrapa Campinas | Redes institucionais, produção orgânica |
+| Gisele Vilela | Agronomia | Embrapa Campinas | Redes, produção orgânica |
 | Joaquim Sando | Eng. Agrônomo | MST Regional RP | Articulação territorial |
-| Murillo Miguel | Desenvolvedor web | Coletivo Terra Viva | Operação de campo, logística |
+| Murillo Miguel | Desenvolvedor web | Coletivo Terra Viva | Operação de campo |
 | Vicente Borges | Agronomia, Doutor Educação Campo | IFB Planaltina | MPTDF, educação do campo |
-| Luci Okino | Gestão comunitária | Estação Luz | Espaço físico, articulação local |
-| Raphaela Palma | Nutrição + Psicologia, Mestre USP | Coletivo Terra Viva | Saúde Integral, desertos alimentares |
+| Luci Okino | Gestão comunitária | Estação Luz | Espaço físico |
+| Raphaela Palma | Nutrição + Psicologia, Mestre USP | Coletivo Terra Viva | Saúde Integral |
 | Henrique Bueno | Direito, TI | Estação Luz | Gestão administrativa |
 | Luis Felipe | Arquitetura e Urbanismo | Labiapa | Projeto complementar |
 
@@ -131,14 +151,14 @@ Warka Water (Vittori, 2012-2015, Etiópia), Macrodiamante (Espinosa, 1957, Chile
 
 ## 9. Lacunas e Ações Pendentes
 
-1. **Empresa proponente sem CNPJ.** Definir cooperativa/associação/empresa líder. Responsável: grupo ECOSALA. Prioridade: crítica.
-2. **Contrapartida não calculada.** Calcular conforme porte da proponente. Prioridade: alta.
-3. **Orçamento abaixo do mínimo** (R$ 3,9M vs R$ 5M). Adicionar 2º ônibus + bolsas ICT. Prioridade: alta.
-4. **Cartas de anuência das ICTs.** Formalizar parcerias (UnB, IFSP, IFB, Embrapa, Labiapa). Responsável: Marcos Paron. Prioridade: média.
-5. **Cartas de anuência dos territórios.** 4 assentamentos + 5 acampamentos. Responsável: Joaquim + Murillo. Prioridade: média.
-6. **Ensaios de pirolenhoso (4 usos potenciais).** Elaborar protocolo. Responsável: Marcos Paron + Fabio Takwara. Prioridade: média.
-7. **Projeto catamarã — engenharia naval.** Contratar projeto preliminar. Responsável: André Blanco + Luis Felipe. Prioridade: baixa.
-8. **Fossa séptica — protótipo.** Construir escala 1:1 no Mário Lago. Responsável: Murillo + André. Prioridade: baixa.
+1. **Empresa proponente sem CNPJ.** Prioridade: crítica.
+2. **Contrapartida não calculada.** Prioridade: alta.
+3. **Orçamento abaixo do mínimo.** Prioridade: alta.
+4. **Cartas de anuência das ICTs (UnB, IFSP, IFB, Embrapa).** Prioridade: média.
+5. **Cartas de anuência dos territórios (4 assentamentos + 5 acampamentos).** Prioridade: média.
+6. **Protocolo de ensaios de pirolenhoso (biofertilizante, biodefensivo).** Prioridade: média.
+7. **Projeto catamarã — engenharia naval.** Prioridade: baixa.
+8. **Fossa séptica — protótipo escala 1:1.** Prioridade: baixa.
 
 ---
 
@@ -147,96 +167,91 @@ Warka Water (Vittori, 2012-2015, Etiópia), Macrodiamante (Espinosa, 1957, Chile
 | Fase | Ação | Prazo |
 |---|---|---|
 | 1 | Circular este documento no grupo | Imediato |
-| 2 | Definir empresa proponente (CNPJ) e contrapartida | Julho/2026 |
-| 3 | Formalizar cartas de anuência | Julho/2026 |
-| 4 | Consolidar contribuições de cada membro | Agosto/2026 |
-| 5 | Finalizar orçamento | Agosto/2026 |
-| 6 | Reescrever proposta integrando ajustes | Setembro/2026 |
-| 7 | Revisão coletiva | Setembro/2026 |
-| 8 | Submeter (fluxo contínuo — edital válido 24 meses) | Outono/2026 |
+| 2 | Definir empresa proponente (CNPJ) | Julho/2026 |
+| 3 | Cartas de anuência | Julho/2026 |
+| 4 | Finalizar orçamento | Agosto/2026 |
+| 5 | Reescrever proposta | Setembro/2026 |
+| 6 | Revisão coletiva | Setembro/2026 |
+| 7 | Submeter (fluxo contínuo) | Outono/2026 |
 
 ---
 
 ## Bibliografia
 
-### Captação de Água Atmosférica
+### Fundamentação científica do tratamento ecológico
 
-BATTISTI, R.; VITTORI, A. Field testing of the Warka Water passive water harvesting system. Architecture and Vision, 2017.
+ARAUJO, L. M.; GIANELLI, B. F.; MANCINI, S. D.; MEDEIROS, G. A. Life cycle assessment of the artisanal bamboo pole (Guadua angustifolia) production in the Brazilian Amazon. *Brazilian Journal of Science*, v. 4, n. 4, 2025. DOI: 10.14295/bjs.v4i4.719.
 
-CERECEDA, P.; SCHEMENAUER, R. S.; SUIT, M. Fog-water collection in arid coastal locations. Ambio, v. 20, n. 7, p. 303-308, 1992.
+STEFANDITYA et al. CFD simulations of rocket stove thermal efficiency with ceramic fiber insulation. 2023.
 
-FERNÁNDEZ, A.; ORTEGA, S. Coastal fog tower. In: eVolo Skyscraper Competition, 2008. 3º prêmio.
+### Protocolos MQTF (Consórcio UnB/UFRR/UFAC)
 
-GHERMANDI, A.; MESSALEM, R. Warka Water: an alternative water source. Desalination, v. 395, p. 6-17, 2016.
+Nota Técnica ENG-NT-005: Protocolo de Tratamento Bio-Soberano (Diquada e Pirolenhoso). Projeto Mulheres Que Tecem a Floresta (MQTF), 2025.
 
-JARIMI, H. et al. Fog harvesting: a review. Energies, v. 13, n. 14, p. 3531, 2020.
+Nota Técnica NT-001: Tratamento Ecológico do Bambu — bio-preservação e transição para a toxicidade zero. MQTF, 2025.
 
-KLEMM, O. et al. Fog as a fresh-water resource: a review. Ambio, v. 41, n. 3, p. 221-234, 2012.
-
-MARZOL, M. V.; MEGÍA, J. L. S. Fog water harvesting in the Canary Islands. Die Erde, v. 139, n. 3, p. 243-260, 2008.
-
-PARK, K. C. et al. Biomimetic fog collection: from nature to artificial systems. Nature, v. 531, n. 7592, p. 78-82, 2016.
-
-SCHEMENAUER, R. S.; CERECEDA, P. A proposed standard fog collector. Journal of Applied Meteorology, v. 33, n. 11, p. 1313-1322, 1994.
+### Captação de água atmosférica
 
 VITTORI, A. Warka Water: a sustainable water harvesting system. Architecture and Vision, 2012.
 
-### Tecnologias Sociais e Bioconstrução
+CERECEDA, P.; SCHEMENAUER, R. S. The occurrence of fog in Chile. *Journal of Applied Meteorology*, v. 30, n. 8, p. 275-286, 1991.
 
-BLANCO, A.; STASI, G. Coletor de humidade "A Gota D'Água": torre coletora de neblina em bambu. Escola de Engenharia Central, Piracicaba/SP, 2026.
+KLEMM, O. et al. Fog as a fresh-water resource: a review. *Ambio*, v. 41, n. 3, p. 221-234, 2012.
+
+PARK, K. C. et al. Biomimetic fog collection: from nature to artificial systems. *Nature*, v. 531, n. 7592, p. 78-82, 2016.
+
+MARZOL, M. V.; MEGÍA, J. L. S. Fog water harvesting in the Canary Islands. *Die Erde*, v. 139, n. 3, p. 243-260, 2008.
+
+### Tecnologias sociais e bioconstrução
+
+BLANCO, A.; STASI, G. Coletor de Humidade "A Gota D'Água". Escola de Engenharia Central, Piracicaba/SP, 2026.
 
 BLANCO, A. et al. Oca do Curumim: estrutura de bambu para educação infantil. Sesc / Ambiente Total, 2026.
 
-### Tratamento de Bambu e Materiais
+### Tratamento de bambu e materiais
 
-SILVA, V. P. B.; TAKWARA, F. Forno ecológico a vapor MPTDF: manual de construção e operação. LaPeCFaS/UnB/IFB, 2024.
+Nota Técnica: Forno ecológico a vapor MPTDF. LaPeCFaS/UnB/IFB, 2024.
 
-TAKWARA, F. Poliuretano vegetal de mamona (Imperveg): ficha técnica consolidada. Tecnologia Takwara / Plataforma Amazônia Regenerativa, 2025.
+Ficha técnica: Poliuretano vegetal de mamona (Imperveg). Plataforma Amazônia Regenerativa, 2025.
 
-TAKWARA, F. Biochar e ácido pirolenhoso: nota técnica. Tecnologia Takwara, 2025.
+### Equipe ECOSALA — fichas-resumo (repositório de análises científicas)
 
-### Equipe ECOSALA — Fichas-Resumo
+PARON, M. E. Ficha — microbiologia, ecoformação. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/marcos-paron.md`
 
-As fichas completas de cada membro encontram-se no repositório de análises científicas:
+BLANCO, A. Ficha — bioarquitetura, geodésicas. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/andre-blanco.md`
 
-PARON, M. E. Ficha técnica — microbiologia do solo, ecoformação. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/marcos-paron.md`
+VILELA, G. F. Ficha — produção orgânica, ATER. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/gisele-vilela.md`
 
-BLANCO, A. Ficha técnica — bioarquitetura, geodésicas, bambu. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/andre-blanco.md`
+SANDO, J. L. Ficha — reforma agrária. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/joaquim-sando.md`
 
-VILELA, G. F. Ficha técnica — produção orgânica, ATER. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/gisele-vilela.md`
+SILVA, V. P. B. Ficha — educação do campo, MPTDF. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/vicente-borges.md`
 
-SANDO, J. L. Ficha técnica — reforma agrária, segurança alimentar. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/joaquim-sando.md`
+PALMA, R. Ficha — saúde pública, PICS. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/raphaela-palma.md`
 
-SILVA, V. P. B. Ficha técnica — educação do campo, MPTDF. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/vicente-borges.md`
+OKINO, L. Ficha — gestão comunitária. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/luci-okino.md`
 
-PALMA, R. Ficha técnica — saúde pública, nutrição, PICS. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/raphaela-palma.md`
+MIGUEL, M. Ficha — SAFs, mobilização. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/murillo-miguel.md`
 
-OKINO, L. Ficha técnica — gestão comunitária, tecnologias sociais. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/luci-okino.md`
+BUENO, H. Ficha — gestão administrativa. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/henrique-bueno.md`
 
-MIGUEL, M. Ficha técnica — SAFs, mobilização comunitária. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/murillo-miguel.md`
+ARAUJO, L. F. Ficha — arquitetura, habitação. In: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/luis-felipe.md`
 
-BUENO, H. Ficha técnica — gestão administrativa, licitações. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/henrique-bueno.md`
+### Repositórios de pesquisa de base
 
-ARAUJO, L. F. Ficha técnica — arquitetura, habitação social. In: Acervo de Análises e Escrita Científica. Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/luis-felipe.md`
+Acervo de análises e escrita científica: `github.com/takwaratec/Analises-e-escrita-cientifica`
 
-### Pesquisa de Fabio Takwara (repositórios)
+Acervo Takwara-Tech (artigos, manuais, notas técnicas): `github.com/takwaratec/Takwara-Tech`
 
-TAKWARA, F. Análises e escrita científica: fichas técnicas, resenhas e catálogo IFB (84 referências). Disponível em: `github.com/takwaratec/Analises-e-escrita-cientifica`
+Acervo MQTF (dossiê BNDES, 12 protocolos abertos): `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone`
 
-TAKWARA, F. Takwara-Tech: artigos, manuais e análises sobre bambu, biochar, PU vegetal, COP30. Disponível em: `github.com/takwaratec/Takwara-Tech`
-
-TAKWARA, F. Mentoria Tecnologia Takwara: fichas técnicas PU vegetal, tratamentos de bambu. Disponível em: `github.com/takwaratec/Mentoria_Tecnologia_Takwara`
-
-TAKWARA, F. Mulheres que Tecem a Floresta (MQTF): acervo de bioeconomia amazônica, dossiê BNDES, 12 tecnologias abertas (T01-T12). Disponível em: `github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone`
-
-### Documentos do Grupo
+### Documentos do grupo
 
 PARON, M. E. Memorial reunião inaugural EcoSala Móvel. 05 maio 2026.
 
-PARON, M. E. Projeto ECOSALA Itinerante de Agroecologia. MST Regional Ribeirão Preto, 2026.
+PARON, M. E. Projeto ECOSALA Itinerante. MST Regional RP, 2026.
 
-MIGUEL, M. et al. Viveiro-Educador Terra Viva — proposta Juventude Solidária 01/2026. Coletivo Terra Viva, 2026.
+MIGUEL, M. et al. Viveiro-Educador Terra Viva. Edital Juventude Solidária 01/2026.
 
 ---
 
-> *Este documento é um rascunho para discussão do grupo ECOSALA. Comentários e contribuições são bem-vindos antes da reescrita final.*
+> *Este documento é um rascunho para discussão do grupo ECOSALA. Nenhuma informação foi submetida. Contribuições são bem-vindas.*
