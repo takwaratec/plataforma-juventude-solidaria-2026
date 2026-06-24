@@ -16,9 +16,9 @@
 | 📚 **Referências científicas (pirolenhoso, PU, bioenergia)** | [abrir](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/referencias-pirolenhoso-pu.md) |
 | 👥 **Fichas da equipe ECOSALA (10 membros)** | [abrir](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala/) |
 | 🧭 **Curadoria das imagens (André Blanco)** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/curatoria-imagens-andre/) |
-| 🗺️ **Memorial da reunião inaugural (05/05/2026)** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/12_REUNIOES/MEMORIAL_REUNIAO_2026-05-05/) |
+| 🗺️ **Memorial da reunião inaugural (05/05/2026)** | [abrir](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/12_REUNIOES/MEMORIAL_REUNIAO_2026-05-05.md) |
 | 📐 **Plano de alinhamento T01-T12** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/plano-alinhamento-t01-t12/) |
-| 🏛️ **Acervo MQTF (protocolos, ensaios, Diquada)** | [abrir](https://github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone) |
+| 🏛️ **Acervo MQTF (protocolos, ensaios, Diquada)** | [abrir](https://github.com/takwaratec/Mulheres-Tecem-Amazonia) |
 | 📖 **Bibliografia ABNT completa** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/bibliografia-abnt/) |
 
 ---
@@ -145,4 +145,4 @@ BRASIL. Lei n. 10.097, de 19 de dezembro de 2000 — Lei da Aprendizagem.
 
 Fichas da equipe ECOSALA: [github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala/)
 
-Protocolos abertos e acervo técnico: [github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone](https://github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone)
+Protocolos abertos e acervo técnico: [github.com/takwaratec/Mulheres-Tecem-Amazonia](https://github.com/takwaratec/Mulheres-Tecem-Amazonia)
