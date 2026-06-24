@@ -1,90 +1,76 @@
-# 🚌 Projeto Vaga Lúmen: Aprendizagem Itinerante em Permacultura e Economia Circular
-**Proposta de Enquadramento Tecnológico e Operacional — ECOSALA MÓVEL**
+# 📋 Ficha de Submissão e Enquadramento: Seleção Pública Finep Mais Inovação Brasil
+**Rodada 2: Economia Circular e Cidades Sustentáveis — Subvenção Econômica**
+**Projeto Vaga Lúmen — Laboratório Itinerante ECOSALA MÓVEL**
 
 ---
 
-## 1. Justificativa e Escopo da Proposta
+## ⚡ Diretrizes de Submissão e Estrutura do Edital
 
-Esta proposta visa estruturar o **Projeto Vaga Lúmen** como um centro itinerante de educação e aplicação de tecnologias socioambientais apropriadas. A infraestrutura baseia-se em **veículos adaptados** que funcionam como laboratórios demonstrativos vivos nas comunidades por onde passam, promovendo capacitação prática e ativando economias solidárias locais.
+*   **Prazo de Inscrição**: Inscrições em **Fluxo Contínuo** (Edital válido por 24 meses a partir de fevereiro de 2026).
+*   **Limites de Financiamento (Subvenção FNDCT)**:
+    *   **Arranjo Simples** (Empresa Proponente + no mínimo 01 ICT parceira): **Mínimo de R$ 5.000.000,00** e **Máximo de R$ 20.000.000,00**.
+    *   **Arranjo em Rede** (Empresa Proponente + no mínimo 02 Coexecutoras + no mínimo 01 ICT parceira): **Mínimo de R$ 5.000.000,00** e **Máximo de R$ 30.000.000,00**.
+*   **Prazo de Execução**: Até **36 meses** (prorrogável justificadamente a critério da Finep).
+*   **Nível de Maturidade Tecnológica (TRL)**: Foco obrigatório em TRLs **3 a 7** (pesquisa de bancada até demonstração em ambiente operacional). Especificamente para a Linha 3 (Água e Esgoto) com foco em municípios menores de 50 mil habitantes (ou sistemas descentralizados isolados), o edital permite apoiar até o nível de **TRL 8** (sistema real completo e qualificado).
+*   **Regras de Governança e Pontuação**:
+    *   Aprovação na etapa de Análise de Mérito exige pontuação igual ou superior a **14 pontos**.
+    *   Eliminação automática caso obtenha nota 0 em: "Grau de Incerteza Tecnológica", "Abrangência" ou "Relevância do Tema Dentro das Prioridades do Setor".
+    *   Obrigatória a contratação real de serviços de consultoria técnica/pesquisa com a(s) ICT(s) envolvida(s) (mínimo de 5% do orçamento total do projeto no arranjo em rede).
 
-Para reduzir o risco operacional e demonstrar viabilidade imediata, o projeto divide-se em um **Piloto Inicial de 6 Meses** (baseado em bicicletas de carga adaptadas e kits portáteis) e uma **Escala Multimodal de CapEx** contemplando um **ônibus-escola elétrico/híbrido** e uma **embarcação fluvial ecológica (barco de bambu tratado)**.
+### 📊 Tabela de Contrapartida Financeira Obrigatória
+*(Percentual calculado sobre o valor total solicitado do projeto, baseado na receita bruta do último ano do grupo econômico da Empresa de Maior Porte participante)*:
 
----
-
-## 2. Enquadramento e Linha Temática (Finep / FNDCT - Economia Circular e Cidades Sustentáveis)
-
-A proposta se insere e atende diretamente às seguintes diretrizes técnicas da Seleção Pública de Subvenção Econômica à Inovação:
-
-*   **Linha Temática 3 (Água e Esgoto)**: Através do desenvolvimento e validação em TRL 3 a 7 de **sistemas descentralizados de saneamento de menor porte** (filtros biológicos móveis, banheiros secos náuticos com desvio de urina e compostagem integrada em terra).
-*   **Linha Temática 4 (Moradia e Espaços Públicos Sustentáveis)**: Por meio do desenvolvimento de sistemas construtivos modulares leves e ecológicos à base de **bambu estrutural tratado**, toldos retráteis tensionados com encaixes rápidos e marcenaria modular leve aplicada a unidades móveis de utilidade pública (escolas e laboratórios itinerantes).
-*   **Base Teórica e Científica de Amparo**: O projeto incorpora os estudos técnicos, ensaios mecânicos e metodologias de transferência sociotécnica desenvolvidos nos repositórios integrados **Mulheres, Bioeconomia e Amazônia (Mulheres-Bioeconomia-Amazônia)** e na **Matriz de Qualificação Tecnológica e Fomento (MQT)**, servindo de base de defesa para o nível de maturidade tecnológica e mitigação de riscos biológicos na destinação de efluentes.
-
----
-
-## 3. Os Modais e Inovações Tecnológicas do Projeto
-
-```
-               ┌────────────────────────────────────────────────────────┐
-               │              PROJETO VAGA LÚMEN (MODAIS)               │
-               └───────────────────────────┬────────────────────────────┘
-                                           │
-         ┌─────────────────────────────────┼────────────────────────────────┐
-         ▼                                 ▼                                ▼
-┌──────────────────┐             ┌──────────────────┐             ┌──────────────────┐
-│   Ciclo-Modais   │             │   Ônibus-Escola  │             │  Barco de Bambu  │
-│ (Bikes de Carga) │             │ (Elétrico/Híbr)  │             │  (Tratado MPTDF) │
-└──────────────────┘             └──────────────────┘             └──────────────────┘
-```
-
-### 3.1. Modal 1: Bicicletas de Carga Permaculturais (Piloto)
-*   **Uso**: 3 bicicletas de carga adaptadas para transporte de kits de sementes crioulas, ferramentas manuais de agroecologia, mini painéis fotovoltaicos didáticos e ferramentas de bioconstrução.
-*   **Inovação**: Mobilidade de baixo custo e zero pegada de carbono, ideais para áreas urbanas e pequenas comunidades com acessos estreitos.
-
-### 3.2. Modal 2: Ônibus-Escola de Economia Circular (Escala Terrestre)
-*   **Uso**: Um ônibus adaptado com toldo retrátil lateral gerando uma sala de aula externa sombreada para até 20 pessoas, biblioteca de referência e sementoteca interna.
-*   **Inovação**: **Teto fotovoltaico integrado** para geração de energia 100% limpa (alimentando as ferramentas e projetores das oficinas) e sistema hidráulico com **filtro biológico de recirculação de águas cinzas** integrado à pia da cozinha escola.
-
-### 3.3. Modal 3: Embarcação Fluvial Ecológica / Barco de Bambu (Escala Aquática)
-*   **Uso**: Barco de 10 a 12 metros adaptado para levar oficinas práticas e materiais a comunidades ribeirinhas, caiçaras ou insulares isoladas.
-*   **Inovação**: **Casco e superestrutura construídos com bambu estrutural regional tratado** ecologicamente a vapor saturado alcalino. O barco integra um sistema de **saneamento náutico seco** (banheiro compostável), captação solar semiflexível de convés e horta modular suspensa na proa para cultivo de PANCs e medicinais sob irrigação por gravidade.
-
----
-
-## 4. Planejamento Orçamentário e Metodologia Faseda
-
-### 4.1. Piloto Inicial (6 Meses) - R$ 85.000,00
-Orçamento focado na validação metodológica das ativações territoriais sem a compra imediata de veículos pesados:
-
-| Categoria de Despesa | Descrição e Especificação dos Itens | Valor (R$) | % |
+| Porte da Empresa Proponente / Coexecutora | Receita Operacional Bruta Anual | % Mínimo (Arranjo Simples) | % Mínimo (Arranjo em Rede) |
 |---|---|---|---|
-| **Ciclo-Modais e Kits Solares** | 3 bicicletas de carga adaptadas, caixas modulares, painéis fotovoltaicos, baterias estacionárias, inversor de tensão | R$ 18.000,00 | 21% |
-| **Equipamentos Pedagógicos** | Ferramentas de corte e poda, sacos de substrato, sementes crioulas e módulos didáticos de água/solo | R$ 8.000,00 | 9% |
-| **Implementação de Campo** | Logística, combustível de apoio, insumos e alimentação local para 8 ativações territoriais | R$ 20.000,00 | 24% |
-| **Equipe e Facilitação** | Remuneração para coordenação de campo, instrutores das oficinas permaculturais e monitores locais | R$ 24.000,00 | 28% |
-| **Mensuração e Comunicação** | Registro em vídeo (documentário curto), edição, coleta e tabulação de indicadores de impacto | R$ 8.000,00 | 9% |
-| **Seguros e Contingência** | Taxas administrativas, seguro de equipamentos de mutirão e reserva financeira de emergência | R$ 7.000,00 | 8% |
-| **TOTAL** | | **R$ 85.000,00** | **100%** |
-
-### 4.2. Escala de CapEx (Adição dos Veículos) - R$ 250.000,00
-
-| Ativo Construtivo | Especificação / Escopo | Investimento Estimado | Vida Útil Contábil |
-|---|---|---|---|
-| **Ônibus Usado** | Aquisição, revisão mecânica completa, documentação e licença de trânsito | R$ 65.000,00 | 10 anos |
-| **Adaptação do Ônibus** | Marcenaria modular, instalação de toldo lateral, armários para sementoteca e mobiliário leve | R$ 25.000,00 | 5 anos |
-| **Barco de 10-12m (Bambu)** | Aquisição do casco/revisão náutica e estruturação com bambu tratado | R$ 75.000,00 | 10 anos |
-| **Adaptação do Barco** | Banheiro seco náutico, filtro biológico flutuante, reservatórios de gravidade | R$ 20.000,00 | 5 anos |
-| **Reboque Fechado** | Transporte de carga pedagógica de apoio para ativações terrestres | R$ 12.000,00 | 10 anos |
-| **Kit Ciclo-Permacultura** | 3 bicicletas de carga adaptadas com caixas e baús pedagógicos | R$ 18.000,00 | 5 anos |
-| **Sistemas Fotovoltaicos** | Painéis solares fotovoltaicos, inversores híbridos, controladores e baterias estacionárias | R$ 35.000,00 | 10 anos |
-| **TOTAL CAPEX** | | **R$ 250.000,00** | |
+| **Micro / Pequeno Porte (EPP)** | Inferior a R$ 4.800.000,00 | **5,0%** | **5,0%** |
+| **Pequena Empresa** | De R$ 4.800.000,00 a R$ 16.000.000,00 | **10,0%** | **10,0%** |
+| **Média Empresa I** | De R$ 16.000.000,01 a R$ 90.000.000,00 | **30,0%** | **15,0%** |
+| **Média Empresa II** | De R$ 90.000.000,01 a R$ 300.000.000,00 | **40,0%** | **20,0%** |
+| **Grande Empresa** | Acima de R$ 300.000.000,01 | **50,0%** | **30,0%** |
 
 ---
 
-## 5. Matriz de Impacto e Métricas de Validação
+## 📝 Campos do Formulário de Submissão (Rascunho de Conteúdo)
 
-Os resultados das ativações territoriais do projeto serão tabulados de forma rigorosa, fornecendo indicadores quantitativos e qualitativos de impacto socioambiental:
+### Campo 1: Identificação do Arranjo de Inovação
+*   **Empresa Proponente**: [Inserir Razão Social da Empresa Líder do Arranjo]
+*   **Empresas Coexecutoras (Obrigatório em Rede)**: [Inserir Coexecutora 1] | [Inserir Coexecutora 2]
+*   **ICT(s) Participantes**: [Inserir ex: Fundação Universidade de Brasília - UnB / Instituto Federal de São Paulo - IFSP]
+*   **Linhas Temáticas de Enquadramento**: 
+    *   *Linha 3 - Água e Esgoto* (Sistemas descentralizados de tratamento e reaproveitamento de efluentes em localidades isoladas)
+    *   *Linha 4 - Moradia e Espaços Públicos Sustentáveis* (Industrialização e novos materiais leves/sustentáveis para habitação e equipamentos públicos de base comunitária)
 
-1.  **Indicadores de Energia**: Quilowatts-hora (kWh) limpos gerados pelos sistemas solares das unidades móveis e horas de uso de combustíveis fósseis evitadas nas oficinas.
-2.  **Indicadores de Saneamento**: Litros de águas cinzas devidamente purificados pelo biofiltro de recirculação do ônibus e caixas flutuantes de macrófitas na popa da embarcação.
-3.  **Indicadores de Manejo e Alimento**: Área total de agroflorestas implantada em mutirão nas paradas do projeto e número de touceiras de bambu mapeadas e catalogadas para manejo comunitário sustentável.
-4.  **Indicadores Sociais**: Total de jovens e moradores locais qualificados nas oficinas práticas e catalogação de sementes distribuídas através da rede de sementotecas itinerantes.
+### Campo 2: Título do Projeto
+*   **Rascunho**: Vaga Lúmen: Laboratório Móvel Itinerante de Saneamento Descentralizado e Moradia Modular Sustentável
+*   **Instruções**: Nome claro contendo o objeto de inovação. (Limite: 150 caracteres).
+
+### Campo 3: Resumo Executivo da Proposta
+*   **Rascunho**: O projeto visa desenvolver e validar em escala pré-industrial (TRL 3 a 8) o Vaga Lúmen, um centro itinerante de educação e validação prática de tecnologias de economia circular composto por modais terrestres e aquáticos. O projeto engloba: 1) Desenvolvimento de um **Ônibus-Escola de Alta Tecnologia** (equipado com propulsão elétrica/híbrida nova adquirida de fábrica, teto solar fotovoltaico integrado de 6 kWp e uma unidade física de recirculação e tratamento biológico de águas cinzas de pia para reuso). 2) Uma **Embarcação Fluvial Ecológica (Barco de Bambu)** com casco e superestrutura estruturados em bambu regional tratado a vapor (cal + cinzas + pirolenhoso) integrando banheiro seco náutico compostável e biofiltro flutuante de popa. O piloto de 6 meses operará com 3 bicicletas de carga permaculturais de baixo custo. As tecnologias baseiam-se em ensaios de tração e caracterização biológica documentados nos repositórios institucionais de ciência *Mulheres-Bioeconomia-Amazônia* e *MQT*, promovendo qualificação profissional descentralizada e ativando cooperativas locais de bioconstrução e saneamento básico rural.
+*   **Instruções**: Descrever o objeto de inovação, objetivos, TRLs esperados, relevância e principais entregas do projeto. (Limite: 3.000 caracteres).
+
+### Campo 4: Justificativa de Incerteza e Desafio Tecnológico
+*   **Rascunho**: O desafio do projeto reside na adaptação de sistemas de saneamento e tratamento de efluentes por processos biológicos (biofiltros dinâmicos e banheiros secos Náuticos) para estruturas móveis sujeitas a vibrações mecânicas constantes e inclinações severas de navegação (no barco de bambu), sem o uso de produtos químicos industriais restritos. 
+
+  Outra incerteza tecnológica crítica consiste no dimensionamento estrutural e durabilidade de ligações mecânicas em estruturas tensionadas e modais dinâmicos compostos integralmente por colmos de bambu de diferentes calibres submetidos a intemperismo de água doce/salgada e esforço de torção de casco. Para mitigar o risco estrutural, o projeto baseia-se nos estudos de caracterização física e de durabilidade natural do bambu do repositório *Mulheres-Bioeconomia-Amazônia* e nos parâmetros e ensaios normativos da Matriz *MQT*, permitindo a validação experimental e calibração de modelos estruturais em TRL 4 a 7 com o apoio analítico dos laboratórios da ICT parceira.
+*   **Instruções**: Justificar a incerteza tecnológica do projeto, descrevendo os riscos e a metodologia científica aplicada para superá-los. (Limite: 4.000 caracteres).
+
+---
+
+## 💰 Detalhamento de Itens Orçamentários e CapEx (36 Meses)
+*(Orçamento estruturado com foco em veículos novos adquiridos diretamente de fábrica, sistemas solares e infraestrutura de ponta)*:
+
+| Item / Categoria | Especificação Técnica do Ativo / Serviço | Origem / Fornecedor | Custo Estimado (R$) |
+|---|---|---|---|
+| **Chassis e Ônibus Novo** | Chassis de ônibus elétrico ou híbrido novo de fábrica, equipado com pack de baterias LiFePO4 para tração e climatização inteligente | Montadora Nacional | R$ 1.200.000,00 |
+| **Adaptação Construtiva e Marcenaria** | Adaptação interna do ônibus para sala multimídia, revestimentos acústicos ecológicos, marcenaria modular em painéis de bambu | Fábrica especializada | R$ 250.000,00 |
+| **Embarcação Fluvial (Barco)** | Casco náutico homologado de 12 metros, adaptado com superestrutura de bambu tratado e propulsão elétrica híbrida nova | Estaleiro Naval | R$ 450.000,00 |
+| **Saneamento Náutico Móvel** | Módulos de banheiro seco com separação de urina, biofiltros flutuantes e dessalinizador náutico por gravidade | Indústria Especializada | R$ 90.000,00 |
+| **Microgeração Fotovoltaica** | Sistema solar fotovoltaico de convés (placas solares semiflexíveis 6 kWp, inversores híbridos de onda senoidal pura e banco de baterias) | Distribuidor Fotovoltaico | R$ 180.000,00 |
+| **Ciclo-Permacultura (Piloto)** | 03 Bicicletas cargueiras elétricas novas com baú pedagógico integrado e ferramentas | Indústria Nacional | R$ 36.000,00 |
+| **Pesquisa e Serviços de ICT** | Ensaios de tração mecânica de bambu, análises de qualidade de água e consultoria acadêmica (UnB/IFSP) | ICTs Parceiras | R$ 350.000,00 |
+| **Equipe Técnica e Engenharia** | Remuneração de engenheiros estruturais, biólogos especialistas em efluentes e facilitadores de mutirão | Equipe de Execução | R$ 850.000,00 |
+| **Logística e Materiais de Mutirão** | Insumos de bioconstrução nos territórios, sementes crioulas para sementotecas e logística de colheita regional | Fornecedores Locais | R$ 320.000,00 |
+| **TAXA ADMINISTRATIVA E SEGUROS**| Seguros de responsabilidade civil náutica e terrestre, taxas regulatórias e de propriedade intelectual | Corretora / Órgãos Reguladores | R$ 150.000,00 |
+| **TOTAL ORÇADO** | | | **R$ 3.926.000,00** |
+
+*Nota: Para atingir o limite mínimo exigido pelo edital Finep Mais Inovação de R$ 5.000.000,00 para submissão direta, a proponente deverá prever a replicação das unidades móveis (ex: 02 ônibus-escola elétricos ou 02 embarcações) para cobrir mais territórios de atendimento nas bacias hidrográficas nacionais, ou incorporar custos de P&D associados.*
