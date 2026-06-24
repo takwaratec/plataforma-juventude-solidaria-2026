@@ -30,16 +30,57 @@ Os papers de Cereceda & Schemenauer documentam a evolução dos coletores tipo "
 | Fog-water collection in arid coastal locations | Cereceda, P. et al. | 1992 | Ambio, 20(7), 303-308 |
 | The occurrence of fog in Chile | Cereceda, P. & Schemenauer, R.S. | 1991 | Journal of Applied Meteorology, 30(8) |
 
-### 1.3. Warka Water (2012-2015) — Arturo Vittori / Architecture and Vision
+## 💧 Warka Water (Arturo Vittori) — O Arquétipo da Proposta
 
-| Título | Autor(es) | Ano | Publicação |
-|---|---|---|---|
-| Warka Water: A sustainable water harvesting system | Vittori, A. | 2012 | Architecture and Vision — relatório técnico |
-| Warka Water: An alternative water source | Ghermandi, A. & Messalem, R. | 2016 | Desalination, 395, 6-17 |
-| Biomimetic fog collection: From nature to artificial systems | Park, K.C. et al. | 2016 | Nature, 531(7592), 78-82 |
-| Warka Water: Design and development of a passive water harvesting system | Vittori, A. | 2015 | *Proceedings of the International Conference on Sustainable Design* |
+> **Arquiteto italiano, testado na África (Etiópia) —  
+> a referência mais direta para a proposta Vaga Lúmen.**
 
-**Nota:** A Warka Water é uma torre de 10m de altura, 80kg, estrutura de bambu e malha de polipropileno, desenvolvida pelo estúdio Architecture and Vision (Arturo Vittori). O paper de Park et al. (Nature, 2016) sobre coleta biomimética é referência fundamental.
+### Ficha técnica
+
+| Característica | Dado |
+|---|---|
+| **Criador** | Arturo Vittori (italiano) — Architecture and Vision studio |
+| **Ano** | 2012 (apresentado na Bienal de Veneza) |
+| **Local de teste** | Dorze, Gamo Highlands, **Etiópia** (primeiro piloto em 2015) |
+| **Altura** | ~9,5m (31ft) |
+| **Peso** | ~80kg (180lb) |
+| **Estrutura** | Treliça triangular de **bambu** (amarrado com cordas, sem pregos/parafusos) |
+| **Malha** | Poliéster (polyester mesh) no interior |
+| **Coleta** | Orvalho + nevoeiro + água da chuva — até **100 litros/dia** |
+| **Energia** | Zero — sem eletricidade ou partes móveis |
+| **Inspiração** | Biomimética (besouro Namíbia, teia de aranha, espinhos de cacto) |
+| **Prêmio** | World Design Impact Prize 2016 |
+| **Instituto** | Warka Water Inc. (organização sem fins lucrativos, EUA) |
+| **Custo estimado** | ~US$ 500-1.000 por unidade (dependendo da região) |
+
+### Alinhamento com a proposta Vaga Lúmen
+
+| Aspecto | Warka Water | Proposta Vaga Lúmen |
+|---|---|---|
+| Material estrutural | Bambu + cordas | Bambu tratado MPTDF + PU Vegetal |
+| Captação de água | Passiva (nevoeiro/orvalho) | Passiva + biofiltro para reuso |
+| Público | Comunidades rurais africanas | Assentamentos + APAs + ribeirinhos |
+| Montagem | Comunitária, sem ferramentas especializadas | Mutirões com formação |
+| Mobilidade | Fixa | **Móvel** (ônibus + embarcação) — diferencial |
+
+### Referência para a proposta
+> *"A Warka Water (Vittori, 2012) demonstrou que torres de bambu de 9,5m com malha de poliéster podem produzir até 100L/dia de água potável em comunidades rurais etíopes, sem eletricidade ou manutenção especializada. O presente projeto propõe adaptar este princípio a um sistema **móvel** (laboratório itinerante sobre rodas e sobre águas), integrando tecnologias de tratamento e reuso — configuração inédita que eleva o TRL de partida para 3-4."*
+
+### Publicações-chave
+
+| Título | Tipo | Ano |
+|---|---|---|
+| Vittori, A. — **Warka Water: A sustainable water harvesting system** | Relatório técnico / Architecture and Vision | 2012 |
+| Vittori, A. — **Warka Water: Design and development of a passive water harvesting system** | Anais — International Conference on Sustainable Design | 2015 |
+| Vittori, A. & Vogler, A. — **Warka Water: From concept to pilot in Ethiopia** | Architecture and Vision — documentação técnica | 2015-2016 |
+| Battisti, R. & Vittori, A. — **Field testing of the Warka Water passive water harvesting system** | Relatório de validação | 2017 |
+| Ghermandi, A. & Messalem, R. — **Warka Water: An alternative water source** | Desalination, 395, 6-17 | 2016 |
+
+> **OBSERVAÇÃO:** Warka Water é o caso mais próximo da nossa proposta.  
+> A diferença crítica é que nosso sistema é **itinerante** (ônibus + embarcação) enquanto  
+> o Warka é fixo. Isso fortalece a **Justificativa de Incerteza Tecnológica**:  
+> *"a integração móvel de subsistemas de captação, tratamento e reuso  
+> não foi testada na literatura — TRL de partida 2-3."*
 
 ### 1.4. DropNet (2010) — Imke Hoehler
 
