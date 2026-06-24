@@ -7,6 +7,22 @@
 
 ---
 
+## 🔗 Acesso ao Acervo de Apoio
+
+| Documento | Link |
+|---|---|
+| 📋 **Rascunho consolidado (discussão do grupo)** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/rascunho-consolidado-vaga-lumen/) |
+| 🔬 **Análise de lacunas — TRL real** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/analise-lacunas-honesta/) |
+| 📚 **Referências científicas (pirolenhoso, PU, bioenergia)** | [abrir](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/referencias-pirolenhoso-pu.md) |
+| 👥 **Fichas da equipe ECOSALA (10 membros)** | [abrir](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala/) |
+| 🧭 **Curadoria das imagens (André Blanco)** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/curatoria-imagens-andre/) |
+| 🗺️ **Memorial da reunião inaugural (05/05/2026)** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/12_REUNIOES/MEMORIAL_REUNIAO_2026-05-05/) |
+| 📐 **Plano de alinhamento T01-T12** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/plano-alinhamento-t01-t12/) |
+| 🏛️ **Acervo MQTF (protocolos, ensaios, Diquada)** | [abrir](https://github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone) |
+| 📖 **Bibliografia ABNT completa** | [abrir](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/bibliografia-abnt/) |
+
+---
+
 ## 1. Identificação do Arranjo de Inovação
 
 *Campo de formato livre no formulário — recomenda-se até 500 caracteres para esta seção.*
