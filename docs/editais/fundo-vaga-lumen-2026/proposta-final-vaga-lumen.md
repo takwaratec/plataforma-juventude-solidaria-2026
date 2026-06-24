@@ -71,7 +71,7 @@ Aquisição e adaptação de chassis de ônibus elétrico ou híbrido novo, incl
 
 ## 6. Equipe Executora
 
-*As fichas completas de cada membro encontram-se no repositório de análises científicas em github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/*
+*As fichas completas de cada membro encontram-se no repositório de análises científicas em [github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala/)*
 
 A coordenação técnica do projeto será exercida pelo Prof. Dr. Marcos Eduardo Paron, agrônomo formado pela UFLA com doutorado em microbiologia do solo e 18 anos de docência no IFSP Sertãozinho, responsável pela metodologia de ecoformação, pela caracterização microbiológica dos biofiltros e pela articulação com as ICTs parceiras. O projeto construtivo do ônibus-escola e da embarcação fluvial será liderado pelo arquiteto André Blanco, formado pela PUC Campinas, com 30 anos de experiência em bioconstrução, geodésicas de bambu, tintas minerais e gestão comunitária de APAs pelo Labiapa. O tratamento ecológico do bambu pelo Protocolo Diquada-Pirolenhoso-PU será coordenado pelo Prof. Dr. Vicente de Paulo Borges, agrônomo formado pela UFLA com doutorado em educação do campo e 30 anos de docência no IFB Planaltina, onde mantém o forno MPTDF instalado. A articulação com a Embrapa e o acesso à Organoteca de materiais técnicos para agroecologia serão viabilizados pela pesquisadora Gisele Freitas Vilela, agrônoma formada pela UFLA com 13 anos de atuação na Embrapa Campinas e integrante da Comissão de Produção Orgânica do Estado de São Paulo. A articulação territorial nos 4 assentamentos e 5 acampamentos da Regional Ribeirão Preto será conduzida pelo engenheiro agrônomo Joaquim Lauro Sando, coordenador estadual do MST na região e presidente do Conselho de Segurança Alimentar de Ribeirão Preto. A operação de campo e a logística dos mutirões serão coordenadas por Murillo Miguel, assentado e desenvolvedor web, dirigente do Coletivo Terra Viva no Assentamento Mário Lago. O eixo de saúde integral e desertos alimentares será conduzido por Raphaela Palma, nutricionista e psicóloga, mestre em saúde pública pela USP Ribeirão Preto. O espaço físico e a articulação local serão viabilizados por Luci Okino, presidente da Estação Luz, ponto de cultura e APP urbana vizinha ao campus do IFSP Ribeirão Preto. A gestão administrativa e de licitações será responsabilidade de Henrique Bueno, bacharel em direito com experiência em licitações públicas pela Prefeitura de Ribeirão Preto. O projeto complementar de arquitetura será elaborado por Luis Felipe Araujo, arquiteto e urbanista parceiro do Labiapa.
 
@@ -127,6 +127,6 @@ BRASIL. Lei n. 10.973, de 2 de dezembro de 2004 — Lei de Inovação.
 
 BRASIL. Lei n. 10.097, de 19 de dezembro de 2000 — Lei da Aprendizagem.
 
-Fichas da equipe ECOSALA: github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/
+Fichas da equipe ECOSALA: [github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala/)
 
-Protocolos abertos e acervo técnico: github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone
+Protocolos abertos e acervo técnico: [github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone](https://github.com/takwaratec/Mulheres-Tecem-Amazonia_Clone)
