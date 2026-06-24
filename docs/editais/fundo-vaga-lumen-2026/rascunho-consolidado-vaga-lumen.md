@@ -259,28 +259,7 @@ MIGUEL, M. et al. Viveiro-Educador Terra Viva. Edital Juventude Solidária 01/20
 
 ### Pirolenhoso, PU Vegetal e Bioenergia
 
-MACHADO, E. L. et al. Extrato Pirolenhoso na Agricultura e em Sistemas Agroindustriais: Revisao. *Embrapa*, 2026. DOI: 10.66104/3dxs6j66.
+As referencias completas com DOIs encontram-se no repositorio de analises cientificas:
+`github.com/takwaratec/Analises-e-escrita-cientifica/docs/analyses/ecosala/referencias-pirolenhoso-pu.md`
 
-TSUZUKI, E. et al. Effect of pyroligneous acid on the growth of rice plants. *Japanese Journal of Crop Science*, v. 58, n. 4, p. 592-597, 1989. DOI: 10.1626/jcs.58.592.
-
-ICHIKAWA, T.; OTA, Y. Plant growth promoting effect of pyroligneous acid. *Japanese Journal of Crop Science*, v. 51, n. 1, p. 14-21, 1982. DOI: 10.1626/jcs.51.14.
-
-ORAMAHI, H. A.; YOSHIMURA, T. Antifungal and antitermitic activities of wood vinegar from tropical woods. *Journal of Wood Science*, v. 59, p. 344-350, 2013. DOI: 10.1007/s10086-013-1340-8.
-
-GAMA, G. S. et al. Effect of pH on antibacterial and antifungal activity of wood vinegar. *Revista Arvore*, v. 47, 2023. DOI: 10.1590/1806-908820230000011.
-
-KARA, M. et al. Antifungal activity of wood vinegar against Fusarium species. *Gesunde Pflanzen*, v. 76, p. 109-119, 2024. DOI: 10.1007/s10343-023-00931-3.
-
-LEIFELD, J.; WALZ, E. Pyroligneous acid effects on crop yield and soil organic matter. *Agronomy*, v. 15, n. 4, p. 927, 2025. DOI: 10.3390/agronomy15040927.
-
-CLARO NETO, S. Caracterizacoes fisico-quimicas de PU de mamona. 1997. Tese (Doutorado) — USP Sao Carlos. DOI: 10.11606/t.75.1997.tde-13032026-101959.
-
-SILVA, R. V. Composito de resina PU de mamona e fibras vegetais. 2003. Tese (Doutorado) — USP Sao Carlos. DOI: 10.11606/t.88.2003.tde-29082003-105440.
-
-GURUNATHAN, T.; NAYAK, S. Castor oil polyurethane prepolymers. *Polymers for Advanced Technologies*, v. 27, n. 11, p. 1496-1504, 2016. DOI: 10.1002/pat.3818.
-
-QUIRINO, W. F. Briquetes de carvao vegetal. 2019. Dissertacao — UnB. DOI: 10.11606/d.11.2019.tde-20190821-124712.
-
-NHUCHHEN, D. R. et al. Biochar and bio-oil from wood pellets pyrolysis. *Biomass and Bioenergy*, v. 118, p. 105-115, 2018. DOI: 10.1016/j.biombioe.2018.09.035.
-
-SOHI, S. Pyrolysis bioenergy with biochar: carbon sequestration and renewable energy. *GCB Bioenergy*, v. 5, n. 2, p. 141-154, 2013. DOI: 10.1111/gcbb.12057.
+Inclui 13 artigos com DOI sobre: acido pirolenhoso (Embrapa, Japao, Coreia, Europa), PU vegetal de mamona (USP Sao Carlos, intl.), biochar e briquetes para bioenergia e sequestro de carbono.
