@@ -1,90 +1,68 @@
-# 🌱 Plataforma Juventude Solidária — Acompanhamento Público
+# 🌾 Plataforma de Governança e Projetos — Assentamento Mário Lago
+**Hub Territorial de Projetos de Agroecologia, Tecnologias do Bambu e Captação de Recursos**
 
 ![Viveiro-Educador Terra Viva](assets/images/viveiro_bambu_rocket_stove.png){ width="100%" }
 
-**Viveiro-Educador Terra Viva | Assentamento Mário Lago — APA Guarani**
-
-Bem-vindo ao portal de **transparência e governança aberta** dos projetos de captação de recursos para comunidades da reforma agrária na região de Ribeirão Preto/SP.
-
+Bem-vindo ao portal de **transparência e governança aberta** dos projetos territoriais desenvolvidos pela juventude e cooperativas do Assentamento Mário Lago (Ribeirão Preto/SP), voltados à bioeconomia, soberania alimentar e restauração ambiental na zona de recarga do Aquífero Guarani.
 
 ---
 
-## 🗺️ O Território
+## 🗺️ O Território e os Atores
 
-O **Assentamento Mário Lago** (450 famílias) está situado sobre a zona de recarga do **Aquífero Guarani** — Área de Proteção Ambiental (APA). A regional do MST em Ribeirão Preto conta com **4 assentamentos e 5 acampamentos**, totalizando aproximadamente **570 famílias** em transição agroecológica.
+O **Assentamento Mário Lago** abriga 450 famílias rurais em transição agroecológica. A regional do MST conta com um total de **4 assentamentos e 5 acampamentos** (~570 famílias), desenvolvendo mutirões de recuperação ecológica pós-queimadas de 2024 e produção de alimentos limpos.
 
-**Desafio crítico**: Nenhuma estrutura de viveiro local. Dependência total de doações externas de mudas para reflorestamento e produção.
-
-📄 [Saiba mais sobre o território →](territorio.md)
-
----
-
-## 📋 Projetos em Andamento
-
-### 🥇 Viveiro-Educador Terra Viva
-| | |
-|---|---|
-| **Edital** | Plataforma Juventude Solidária — Ciclo 2026 |
-| **Valor** | R$ 12.000 custeio + R$ 12.000 bolsa = **R$ 24.000** |
-| **Estrutura** | Viveiro 4m x 8m em bambu | 
-| **Capacidade** | 3.000 mudas simultâneas |
-| **Jovens** | 10 voluntários (16-29 anos) |
-| **Status** | 📄 Proposta submetida |
-
-[📊 Acompanhar projeto →](projetos/viveiro-educador.md)
-
-### 🥇 Rede de Biofábricas Itinerantes (BNDES)
-| | |
-|---|---|
-| **Edital** | BNDES Bioinsumos — 2º Ciclo |
-| **Valor** | **R$ 7.850.000** |
-| **Escopo** | Biofábricas móveis para biochar, pirolenhoso e PU vegetal |
-| **Status** | 🔄 Rascunho em elaboração |
-
-[📊 Acompanhar projeto →](projetos/biofabricas-bndes.md)
+- [Saiba mais sobre o diagnóstico do território →](territorio.md)
+- [Conheça os atores e colaboradores da ATER →](atores.md)
+- [📜 História dos Coletivos Rurais →](historia.md)
 
 ---
 
-## 📚 Acervo Digitalizado
+## 📢 Captação de Fomento e Editais (Boletim Sentinel)
 
-Todo o conteúdo dos **18 PDFs** do repositório (438 páginas) foi extraído para formato Markdown pesquisável, com **1.005 imagens organizadas** e descritas por contexto.
+O monitoramento e formatação de propostas de captação de recursos seguem as diretrizes da **Sentinela MQTF**, buscando enquadrar as tecnologias apropriadas de bioconstrução com bambu, forno ecológico de cinzas/pirolenhoso e SAFs.
 
-| Categoria | Docs | Páginas | Imagens | |
-|-----------|------|---------|---------|-|
-| 📄 Editais | 2 | 7 | 4 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/editais) |
-| 🔧 Painéis MPTDF | 2 | 2 | 238 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/paineis_tecnicos) |
-| 📘 Cartilhas | 2 | 30 | 39 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/cartilhas) |
-| 🏦 BNDES | 1 | 27 | 52 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/bndes_bioinsumos) |
-| 🌊 FEHIDRO | 5 | 249 | 572 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/fehidro) |
-| 🗺️ Geolocalização | 3 | 91 | 76 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/geolocalizacao) |
-| 📋 Administrativo | 1 | 4 | 11 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/documentos_administrativos) |
-| 🚀 Projetos | 2 | 28 | 16 | [📂 Acessar](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/tree/main/15_EXTRACAO_PDFS/projetos) |
-| **TOTAL** | **18** | **438** | **1.005** | [📂 Ver acervo completo →](acervo-digitalizado.md) |
+*   [📂 Acessar Boletim Sentinel – Junho/2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/editais/boletim-sentinel-junho-2026/boletim_sentinel_junho_2026.md)
+
+### Editais em Foco:
+*   **Fundo Casa Simplificada 2026** (Teto: R$ 20.000,00 | Foco: Unidade de Tratamento de Bambu a Vapor):
+    *   [📂 Ficha de Inscrição da Proposta](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/editais/fundo-casa-simplificada-2026/ficha_inscricao_simplificada_2026.md)
+*   **Fundo Casa Juventudes 2026** (Teto: R$ 60.000,00 | Foco: Viveiro-Educador Terra Viva):
+    *   [📂 Ficha de Inscrição da Proposta](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/editais/fundo-casa-juventude-2026/ficha_inscricao_juventudes_2026.md)
 
 ---
 
-## 📡 Últimas Atualizações
+## 📋 Repositório Geral de Projetos do Território
+
+Atuamos sob um modelo modular onde cada iniciativa de fomento constitui um projeto autônomo com acompanhamento público.
+
+### 1. 🌱 Viveiro-Educador de Mudas - Terra Viva
+- **Linha de Fomento**: Plataforma Juventude Solidária (IFSP/MEC)
+- **Custeio**: R$ 12.000,00 custeio + R$ 12.000,00 bolsa = **R$ 24.000,00**
+- **Estrutura**: Viveiro 4m x 8m de bambu tratado com cobertura de sombrite 50%
+- [📊 Acompanhar Detalhes e Status do Projeto →](projetos/viveiro-educador.md)
+- [📄 Acessar Gabarito Físico de Submissão →](projetos/PROPOSTA_GABARITO_JUVENTUDE_SOLIDARIA.md)
+
+### 2. 🚚 Rede de Biofábricas Itinerantes (ECOSALA Móvel)
+- **Linha de Fomento**: BNDES Bioinsumos – 2º Ciclo
+- **Orçamento**: **R$ 7.850.000,00**
+- **Escopo**: Forno retorta com condensador de pirolenhoso, biochar de bambu e frota de maquinários para os assentamentos
+- [📊 Acompanhar Rascunho da Proposta BNDES →](projetos/biofabricas-bndes.md)
+
+---
+
+## 📚 Acervo Digitalizado de Pesquisa e Referência
+
+Todo o acervo documental composto por **18 PDFs** técnicos (438 páginas) sobre educação ambiental, cartilhas construtivas de estufa e viveiros do SENAR/FEHIDRO e painéis mecânicos do forno MPTDF foi transcrito e catalogado.
+
+- [📂 Ver índice geral do acervo de referência →](acervo-digitalizado.md)
+
+---
+
+## 📡 Histórico de Atualizações
 
 | Data | Evento |
-|------|--------|
-| 08/06/2026 | 📜 História dos coletivos: linha do tempo do Mário Lago e EcoSala publicada |
-| 08/06/2026 | 📚 Acervo digitalizado: 18 PDFs → .md + 1.005 imagens extraídas |
-| 05/06/2026 | Proposta final do Viveiro-Educador consolidada |
-| 05/05/2026 | 🚀 **Reunião Inaugural EcoSala Móvel** — 14 participantes |
-| 2024 | Incêndios criminosos devastam reservas — início dos mutirões |
-
----
-
-## 🧭 Quem somos
-
-O **ECOSALA Móvel** é um núcleo de pesquisadores, professores e profissionais 60+ que atuam via **ATER** apoiando coletivos juvenis na captação de recursos em editais.
-
-[Conheça os atores →](atores.md) | [📜 História dos coletivos →](historia.md)
-
----
-
-## 🤝 Canais
-
-- **📂 Repositório**: [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026)
-- **📧 Contato**: [Fabio Takwara](mailto:fabio.takwara@example.com)
-- **🌐 Organização**: [Consórcio MQTF — Mulheres Que Tecem a Floresta (UnB/UFAC/UFRR)](https://github.com/Mulheres-Tecem-Amazonia)
+|---|---|
+| 24/06/2026 | 📢 **Boletim Sentinel Junho/2026** publicado com as fichas do Fundo Casa Simplificada e Juventudes |
+| 08/06/2026 | Acervo digitalizado: 18 PDFs estruturados com catálogo de 1.005 imagens |
+| 05/06/2026 | Gabarito de submissão do Viveiro-Educador Mário Lago (formatado 4m x 8m) concluído |
+| 05/05/2026 | Reunião de Planejamento EcoSala Móvel – IFSP/MST |
