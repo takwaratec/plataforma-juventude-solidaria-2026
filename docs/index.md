@@ -1,8 +1,6 @@
 # 🌾 Plataforma de Governança e Projetos — Assentamento Mário Lago
 **Hub Territorial de Projetos de Agroecologia, Tecnologias do Bambu e Captação de Recursos**
 
-![Viveiro-Educador Terra Viva](assets/images/viveiro_bambu_rocket_stove.png){ width="100%" }
-
 Bem-vindo ao portal de **transparência e governança aberta** dos projetos territoriais desenvolvidos pela juventude e cooperativas do Assentamento Mário Lago (Ribeirão Preto/SP), voltados à bioeconomia, soberania alimentar e restauração ambiental na zona de recarga do Aquífero Guarani.
 
 ---
@@ -21,13 +19,13 @@ O **Assentamento Mário Lago** abriga 450 famílias rurais em transição agroec
 
 O monitoramento e formatação de propostas de captação de recursos seguem as diretrizes da **Sentinela MQTF**, buscando enquadrar as tecnologias apropriadas de bioconstrução com bambu, forno ecológico de cinzas/pirolenhoso e SAFs.
 
-*   [📂 Acessar Boletim Sentinel – Junho/2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/editais/boletim-sentinel-junho-2026/boletim_sentinel_junho_2026.md)
+*   [📂 Acessar Boletim Sentinel – Junho/2026](editais/boletim-sentinel-junho-2026/boletim_sentinel_junho_2026.md)
 
 ### Editais em Foco:
 *   **Fundo Casa Simplificada 2026** (Teto: R$ 20.000,00 | Foco: Unidade de Tratamento de Bambu a Vapor):
-    *   [📂 Ficha de Inscrição da Proposta](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/editais/fundo-casa-simplificada-2026/ficha_inscricao_simplificada_2026.md)
+    *   [📂 Ficha de Inscrição da Proposta](editais/fundo-casa-simplificada-2026/ficha_inscricao_simplificada_2026.md)
 *   **Fundo Casa Juventudes 2026** (Teto: R$ 60.000,00 | Foco: Viveiro-Educador Terra Viva):
-    *   [📂 Ficha de Inscrição da Proposta](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/editais/fundo-casa-juventude-2026/ficha_inscricao_juventudes_2026.md)
+    *   [📂 Ficha de Inscrição da Proposta](editais/fundo-casa-juventude-2026/ficha_inscricao_juventudes_2026.md)
 
 ---
 
