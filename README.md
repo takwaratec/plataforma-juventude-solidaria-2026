@@ -70,3 +70,34 @@ Para baixar um arquivo direto do repositório:
 
 - **ECOSALA** (grupo de pesquisa): [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA)
 - **Vaga Lúmen** (proposta FINEP): [github.com/takwaratec/fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026)
+
+
+---
+
+## 📲 Como baixar este repositório
+
+### No computador (Windows/Mac/Linux)
+
+**Opção 1 — Baixar ZIP (mais fácil)**
+1. Acesse `https://github.com/takwaratec/plataforma-juventude-solidaria-2026`
+2. Clique no botão verde **"Code"**
+3. Selecione **"Download ZIP"**
+4. Extraia a pasta no seu computador
+
+**Opção 2 — Clonar com Git (para quem usa Git)**
+Abra o terminal e digite:
+```bash
+git clone https://github.com/takwaratec/plataforma-juventude-solidaria-2026.git
+```
+
+### No celular (app GitHub)
+
+1. Instale o app **GitHub** (iOS/Android)
+2. Faça login ou crie uma conta gratuita
+3. Toque no ícone de busca 🔍 e digite: `takwaratec/plataforma-juventude-solidaria-2026`
+4. Toque no nome do repositório
+5. Toque no botão **"Code"** (ou **"Clone"**)
+6. Selecione **"Download ZIP"** para baixar
+7. Os arquivos .md abrem direto no app
+
+> 💡 **Dica:** Arquivos .md (Markdown) abrem formatados no GitHub automaticamente. No celular, use o app GitHub para visualizar.
