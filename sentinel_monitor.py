@@ -2,113 +2,143 @@
 """
 Sentinel Script — MST Mario Lago / Juventude Solidaria
 Monitoramento de Editais e Geracao de Fichas de Inscricao
-Foco: Viveiro-Educador, juventude assentada, agroecologia, SAFs, bioconstrucao com bambu
 
-ATENCAO: A busca deve sempre incluir regulamentos e documentos de apoio
-para evitar equivocos como o ocorrido com o edital FINEP (TRL 2 vs 3).
+FLUXO OBRIGATORIO PARA CADA EDITAL:
+1. BAIXAR o PDF do regulamento para TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/
+2. CONVERTER o regulamento para .md em docs/editais/[edital]/regulamento.md
+3. CONVERTER documentos de apoio e formulario oficial para .md
+4. ANALISAR compativelidades (TRL, valores, prazos, contrapartida)
+5. ESCREVER orientacoes no boletim semanal
 """
 
 import os
 
-def verificar_regulamento(edital_nome, caminho_pdf=None):
-    """Etapa obrigatoria: baixar e extrair requisitos do regulamento antes de formatar proposta."""
-    check = f"""
-=== CHECKLIST REGULAMENTO: {edital_nome} ===
-[ ] 1. Regulamento baixado e salvo em TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/
-[ ] 2. TRL minima exigida verificada
-[ ] 3. Valor minimo e maximo confirmados
-[ ] 4. Contrapartida financeira calculada
-[ ] 5. Documentos obrigatorios listados (anexos, declaracoes, cartas)
-[ ] 6. Prazo de execucao maximo verificado
-[ ] 7. Critérios eliminatórios identificados
-[ ] 8. Critérios classificatórios identificados
-[ ] 9. Formatos de submissao aceitos (formulario, video, anexos)
-[ ] 10. Impedimentos e vedações revisados
+CAMINHOS = {
+    "regulamentos": "TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/",
+    "editais_docs": "docs/editais/",
+}
+
+
+def baixar_regulamento(url, edital_nome):
+    """Passo 1: Baixar o PDF do regulamento para a pasta de triagem."""
+    destino = os.path.join(CAMINHOS["regulamentos"], f"{edital_nome}_regulamento.pdf")
+    print(f"[1/5] Baixar regulamento de: {url}")
+    print(f"      Salvar em: {destino}")
+    print(f"      Status: PENDENTE (executar manualmente ou via wget/curl)")
+    return destino
+
+
+def converter_para_md(arquivo_pdf, edital_nome):
+    """Passo 2: Converter o PDF do regulamento para .md usando textutil (macOS) ou pypdf."""
+    destino_md = os.path.join(CAMINHOS["editais_docs"], f"{edital_nome}_regulamento.md")
+    print(f"[2/5] Converter PDF para .md:")
+    print(f"      De: {arquivo_pdf}")
+    print(f"      Para: {destino_md}")
+    print(f"      Comando: textutil -convert txt -output /tmp/{edital_nome}.txt {arquivo_pdf}")
+    print(f"      Status: PENDENTE")
+    return destino_md
+
+
+def converter_formulario_edital(arquivo_original, edital_nome):
+    """Passo 3: Converter o formulario oficial de inscricao para .md."""
+    destino = os.path.join(CAMINHOS["editais_docs"], f"{edital_nome}_formulario.md")
+    print(f"[3/5] Converter formulario oficial para .md:")
+    print(f"      De: {arquivo_original}")
+    print(f"      Para: {destino}")
+    print(f"      Status: PENDENTE")
+    return destino
+
+
+def analisar_regulamento(edital_nome):
+    """Passo 4: Extrair e verificar requisitos criticos do regulamento."""
+    print(f"\n[4/5] ANALISE DE REGULAMENTO: {edital_nome}")
+    print("=" * 50)
+    print("[ ] TRL minima exigida: _____")
+    print("[ ] Valor minimo: R$ _____")
+    print("[ ] Valor maximo: R$ _____")
+    print("[ ] Contrapartida minima: _____%")
+    print("[ ] Prazo de execucao maximo: _____ meses")
+    print("[ ] Documentos obrigatorios:")
+    print("      - [ ] Anexo 3 — Declaracao de acoes coletivas")
+    print("      - [ ] Anexo 4 — Declaracao ambiental")
+    print("      - [ ] Anexo 5 — Metodologia TRL")
+    print("      - [ ] Outros: _____")
+    print("[ ] Criterios eliminatórios identificados? [ ] SIM [ ] NAO")
+    print("[ ] Criterios classificatórios identificados? [ ] SIM [ ] NAO")
+    print("=" * 50)
+
+    # Verificar compativelidade com o perfil do Coletivo Terra Viva
+    print("\nCOMPATIBILIDADE COM O COLETIVO:")
+    print(f"[ ] Proponente pode ser o Coletivo Terra Viva?")
+    print(f"[ ] Valor dentro da capacidade de contrapartida?")
+    print(f"[ ] Prazo compativel com a disponibilidade da equipe?")
+    print(f"[ ] Escopo alinhado ao Viveiro-Educador / SAFs / Bambu?")
+    return {}
+
+
+def gerar_boletim_semanal(editais_analisados):
+    """Passo 5: Escrever o boletim semanal com orientacoes."""
+    boletim = f"""# Boletim Sentinel — Semana {__import__('datetime').date.today().strftime('%d/%m/%Y')}
+
+> Opotunidades de fomento mapeadas e analisadas.
+
+## Editais Ativos
+
 """
-    if caminho_pdf and os.path.exists(caminho_pdf):
-        check += f"\n[OK] Regulamento em: {caminho_pdf}\n"
-    else:
-        check += f"\n[!] REGULAMENTO NAO ENCONTRADO. Buscar em: TRIAGEM-BRUTA/\n"
-    return check
+    for e in editais_analisados:
+        boletim += f"""---
+### {e['nome']}
 
+**Situacao:** {e['status']}
+**Prazo:** {e['prazo']}
+**Valor:** {e['teto']}
+**Compatibilidade:** {e['compativel']}
+**Orientacao:** {e['orientacao']}
 
-def formatar_ficha_inscricao(edital_nome, teto, prazo, eixos):
-    template = f"""# Gabarito de Inscricao: {edital_nome}
-**Teto:** {teto} | **Prazo:** {prazo}
-**Eixos:** {', '.join(eixos)}
-
-## [CAMPO 1] IDENTIFICACAO DO PROJETO
-- Titulo: [Inserir]
-- Proponente: Coletivo Terra Viva / [Interveniente financeiro]
-- Contato: Murilo Miguel (Setor de Juventude - MST)
-- Territorio: Assentamento Mario Lago, Ribeirao Preto/SP (APA Aquifero Guarani)
-
-## [CAMPO 2] JUSTIFICATIVA E DIAGNOSTICO
-450 familias assentadas em transicao agroecologica. Alta evasao juvenil por falta de renda e qualificacao.
-Incendios criminosos de 2024 devastaram reservas legais. Tecnologias de toxicidade zero para protecao do
-Aquifero Guarani. Viveiro-Educador como estrategia de formacao, renda e permanencia no campo.
-
-## [CAMPO 3] METODOLOGIA
-Fase 1: Mobilizacao e aquisicao de materiais
-Fase 2: Mutirao de bioconstrucao com bambu tratado (MPTDF)
-Fase 3: Formacao de jovens viveiristas e producao de mudas
-Fase 4: Comercializacao e cooperativismo
-
-## [CAMPO 4] METAS
-- Meta 1: Infraestrutura instalada
-- Meta 2: 10 jovens capacitados
-- Meta 3: Producao e doacao de mudas
-- Meta 4: Modelo replicavel para os 4 assentamentos da regional
 """
-    return template
-
-
-def gerar_boletim(editais):
-    boletim = "# Boletim Sentinel — MST Mario Lago\n"
-    boletim += f"> Gerado automaticamente | {len(editais)} oportunidades ativas\n\n"
-    for i, e in enumerate(editais, 1):
-        boletim += f"---\n### {i}. {e['nome']}\n"
-        boletim += f"**Teto:** {e['teto']} | **Prazo:** {e['prazo']}\n"
-        boletim += f"**Eixos:** {', '.join(e['eixos'])}\n"
-        boletim += f"{e['descricao']}\n\n"
     return boletim
 
 
 if __name__ == '__main__':
-    print("=== SENTINEL MST — MONITORAMENTO DE EDITAIS ===\n")
+    print("=" * 60)
+    print("  SENTINEL MST MARIO LAGO — MONITORAMENTO DE EDITAIS")
+    print("  Fluxo obrigatorio de 5 passos para cada edital")
+    print("=" * 60)
 
-    # PASSO 1: Verificar regulamentos pendentes
-    print(verificar_regulamento("Juventudes e Justica Climatica — Fundo Casa"))
+    # Simulacao para o edital mais urgente
+    edital = "Fundo Casa — Juventudes e Justica Climatica"
 
-    # PASSO 2: Mapear oportunidades ativas
-    editais = [
+    print(f"\n>>> PROCESSANDO: {edital} <<<\n")
+
+    # Passo 1
+    baixar_regulamento(
+        "https://www.fundocasa.org.br/editais/juventudes-clima",
+        "fundo-casa-juventudes-clima-2026"
+    )
+
+    # Passo 2 e 3
+    converter_para_md(
+        "TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/fundo-casa-juventudes-clima-2026_regulamento.pdf",
+        "fundo-casa-juventudes-clima-2026"
+    )
+    converter_formulario_edital(
+        "TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/fundo-casa-juventudes-clima-2026_formulario.pdf",
+        "fundo-casa-juventudes-clima-2026"
+    )
+
+    # Passo 4
+    analisar_regulamento(edital)
+
+    # Passo 5
+    print("\n[5/5] BOLETIM SEMANAL GERADO:")
+    boletim = gerar_boletim_semanal([
         {
-            "nome": "Juventudes e Justica Climatica — Fundo Casa",
-            "teto": "R$ 60.000,00",
+            "nome": edital,
+            "status": "REGULAMENTO NAO ANALISADO",
             "prazo": "30/jun/2026",
-            "eixos": ["Juventude", "Clima", "Agroecologia", "SAFs"],
-            "descricao": "Ampliacao do Viveiro-Educador para centro comunitario. Expansao de 4mx8m para escala maior. Bolsas para jovens viveiristas."
-        },
-        {
-            "nome": "Chamada Simplificada — Fundo Casa",
-            "teto": "R$ 20.000,00",
-            "prazo": "14/jul/2026",
-            "eixos": ["Bioconstrucao", "Bambu", "MPTDF"],
-            "descricao": "Implantacao do Forno Ecologico MPTDF. Bombonas 200L, panela 30L, Rocket Stove, ferramentas."
-        },
-        {
-            "nome": "Juventude Solidaria 02/2026",
-            "teto": "R$ 12.000,00",
-            "prazo": "A confirmar",
-            "eixos": ["Juventude", "Formacao", "Viveiro"],
-            "descricao": "Projeto Viveiro-Educador ja submetido. Aguardando novo ciclo."
+            "teto": "R$ 60.000,00",
+            "compativel": "PENDENTE DE ANALISE",
+            "orientacao": "Baixar regulamento, converter para .md e analisar requisitos antes de preencher."
         }
-    ]
-
-    print(gerar_boletim(editais))
-
-    # PASSO 3: Gerar gabarito para o edital mais urgente
-    print("\n=== GABARITO: Edital com prazo mais proximo ===")
-    gab = formatar_ficha_inscricao(editais[0]["nome"], editais[0]["teto"],
-                                    editais[0]["prazo"], editais[0]["eixos"])
-    print(gab[:300])
+    ])
+    print(boletim)
