@@ -1,19 +1,11 @@
-# OS files
+# TRIAGEM-BRUTA — Material nao versionado
+TRIAGEM-BRUTA/
+
+# System files
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# Logs and temp
-*.log
-*.tmp
-*.swp
-*~
-
-# Build directories
-site/
-.venv/
+# Python
 __pycache__/
-
-
-# Ignorar binarios pesados
-_arquivos_originais_brutos/
+*.pyc
+*.pyo

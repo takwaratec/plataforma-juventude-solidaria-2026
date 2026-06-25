@@ -3,7 +3,34 @@
 Sentinel Script — MST Mario Lago / Juventude Solidaria
 Monitoramento de Editais e Geracao de Fichas de Inscricao
 Foco: Viveiro-Educador, juventude assentada, agroecologia, SAFs, bioconstrucao com bambu
+
+ATENCAO: A busca deve sempre incluir regulamentos e documentos de apoio
+para evitar equivocos como o ocorrido com o edital FINEP (TRL 2 vs 3).
 """
+
+import os
+
+def verificar_regulamento(edital_nome, caminho_pdf=None):
+    """Etapa obrigatoria: baixar e extrair requisitos do regulamento antes de formatar proposta."""
+    check = f"""
+=== CHECKLIST REGULAMENTO: {edital_nome} ===
+[ ] 1. Regulamento baixado e salvo em TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/
+[ ] 2. TRL minima exigida verificada
+[ ] 3. Valor minimo e maximo confirmados
+[ ] 4. Contrapartida financeira calculada
+[ ] 5. Documentos obrigatorios listados (anexos, declaracoes, cartas)
+[ ] 6. Prazo de execucao maximo verificado
+[ ] 7. Critérios eliminatórios identificados
+[ ] 8. Critérios classificatórios identificados
+[ ] 9. Formatos de submissao aceitos (formulario, video, anexos)
+[ ] 10. Impedimentos e vedações revisados
+"""
+    if caminho_pdf and os.path.exists(caminho_pdf):
+        check += f"\n[OK] Regulamento em: {caminho_pdf}\n"
+    else:
+        check += f"\n[!] REGULAMENTO NAO ENCONTRADO. Buscar em: TRIAGEM-BRUTA/\n"
+    return check
+
 
 def formatar_ficha_inscricao(edital_nome, teto, prazo, eixos):
     template = f"""# Gabarito de Inscricao: {edital_nome}
@@ -35,6 +62,7 @@ Fase 4: Comercializacao e cooperativismo
 """
     return template
 
+
 def gerar_boletim(editais):
     boletim = "# Boletim Sentinel — MST Mario Lago\n"
     boletim += f"> Gerado automaticamente | {len(editais)} oportunidades ativas\n\n"
@@ -45,8 +73,14 @@ def gerar_boletim(editais):
         boletim += f"{e['descricao']}\n\n"
     return boletim
 
+
 if __name__ == '__main__':
-    # Mapeamento de oportunidades ativas para o Coletivo Terra Viva
+    print("=== SENTINEL MST — MONITORAMENTO DE EDITAIS ===\n")
+
+    # PASSO 1: Verificar regulamentos pendentes
+    print(verificar_regulamento("Juventudes e Justica Climatica — Fundo Casa"))
+
+    # PASSO 2: Mapear oportunidades ativas
     editais = [
         {
             "nome": "Juventudes e Justica Climatica — Fundo Casa",
@@ -71,10 +105,9 @@ if __name__ == '__main__':
         }
     ]
 
-    print("=== SENTINEL MST — MONITORAMENTO DE EDITAIS ===")
     print(gerar_boletim(editais))
 
-    # Gerar gabarito para o edital mais urgente
+    # PASSO 3: Gerar gabarito para o edital mais urgente
     print("\n=== GABARITO: Edital com prazo mais proximo ===")
     gab = formatar_ficha_inscricao(editais[0]["nome"], editais[0]["teto"],
                                     editais[0]["prazo"], editais[0]["eixos"])
