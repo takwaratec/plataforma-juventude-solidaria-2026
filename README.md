@@ -53,7 +53,7 @@ Para baixar um arquivo direto do repositório:
 
 | Edital | Prazo | Valor | Acessar |
 |---|---|---|---|
-| Juventude Solidária 01/2026 | Submetido | R$ 12.000 | [docs](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/juventude-solidaria-01-2026/) |
+| Juventude Solidária 01/2026 | Submetido | R$ 12.000 | [docs](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/docs/editais/juventude-solidaria-01-2026.md) |
 | Fundo Casa — Juventudes | 30/jun/2026 | R$ 60.000 | [docs/editais/](docs/editais/juventude-solidaria-01-2026.md) ⬅️ não está no site, abrir pelo GitHub |
 
 > ℹ️ **Legenda:** Links azuis vão para o site (GH Pages). Links sem `https://` vão para arquivos direto no repositório GitHub.
