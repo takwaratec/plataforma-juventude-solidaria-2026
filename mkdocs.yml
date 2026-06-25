@@ -71,7 +71,6 @@ markdown_extensions:
 nav:
   - "Início": index.md
   - "O Território": territorio.md
-  - "Quem Somos": atores.md
   - "Nossa História": historia.md
   - "Projetos":
     - "Viveiro-Educador": projetos/viveiro-educador.md
