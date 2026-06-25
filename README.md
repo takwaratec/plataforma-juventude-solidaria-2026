@@ -66,6 +66,14 @@ Para baixar um arquivo direto do repositório:
 - **Atualização:** O README é atualizado sempre que um novo documento é adicionado
 - **Dúvidas:** Falar com Murilo Miguel (Coletivo Terra Viva) ou Fabio Takwara
 
+
+---
+
+## 📚 Produção científica — como contribuir
+
+As fichas individuais foram atualizadas com base em busca exaustiva em bases indexadas.
+Se você tem artigos, teses ou publicações que não foram encontrados, envie o link do seu Lattes para inclusão no acervo.
+
 ## 🔗 Repositórios irmãos
 
 - **ECOSALA** (grupo de pesquisa): [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA)
