@@ -46,6 +46,13 @@ Ou acesse o site direto — não precisa baixar nada.
 
 ---
 
+## 📚 Acervo científico
+
+Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
+👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
+
+---
+
 ## 🔗 Projetos irmãos
 
 - **ECOSALA** (grupo de pesquisa): [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA)
