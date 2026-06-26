@@ -30,6 +30,7 @@
 | **Resultado** | ❌ **Não aprovado** (resultado preliminar 19/06/2026) |
 | **Recurso** | ✅ Enviado em 22/06/2026 — aguardando resposta |
 | **Proponente** | Murilo Miguel (CPF 378.878.418-01) — Coletivo Terra Viva |
+| **Regulamento** | [`regulamento-juventude-solidaria.md`](regulamento-juventude-solidaria.md) |
 | **Proposta** | [`juventude-solidaria-01-2026.md`](juventude-solidaria-01-2026.md) |
 
 ---

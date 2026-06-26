@@ -153,6 +153,7 @@ Enviado por Murilo Miguel em 22/06/2026, reforçando 5 metas:
 
 ## 🔗 Links Úteis
 
+- [Regulamento completo (edital + retificador)](regulamento-juventude-solidaria.md)
 - [Site do projeto](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/)
 - [Edital original (PDF)](https://brasilparticipativo.presidencia.gov.br/processes/juventudesolidaria/f/3786/)
 - [Resultado preliminar](https://brasilparticipativo.presidencia.gov.br/processes/juventudesolidaria/f/4325/posts/1074)
