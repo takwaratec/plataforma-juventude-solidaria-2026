@@ -1,23 +1,105 @@
-# AGENTS.md — MST Mario Lago / Juventude Solidaria
+# AGENTS.md — Plataforma Juventude Solidária (MST Mário Lago)
 
 ## Identidade
-Projeto Viveiro-Educador Terra Viva, submetido ao edital Juventude Solidaria 01/2026.
-Assentamento Mario Lago — APA do Aquifero Guarani, Ribeirao Preto/SP.
-**Publico-alvo:** Membros do MST e comunidade — documentacao simplificada.
 
-## Estrutura (apos triagem)
-`02_PROPOSTAS/` — Proposta final do viveiro
-`06_CARTOGRAFIA_IMAGENS/` — Mapas
-`07_DOCUMENTOS_PROJETO/` — Planilha orcamentaria
-`08_REDES_SOCIAIS/` — Campanhas
-`09_IDENTIDADE_VISUAL/` — Logos
-`13_PROJETOS/` — Projetos complementares
-`14_MIDIAS_ASSETS/` — Midias
-`15_EXTRACAO_PDFS/` — PDFs catalogados
-`_arquivos_originais_brutos/` — Documentos originais
-`docs/` — Site MkDocs
-`docs/editais/` — Formularios de editais ativos
+Repositório de documentação e acompanhamento do **Viveiro-Educador de Mudas Terra Viva**, submetido ao edital **Juventude Solidária 01/2026** (Governo Federal/MEC/IFMT).
 
-## Projetos Irmaos
-- ECOSALA: github.com/takwaratec/ECOSALA
-- Vaga Lumen (FINEP): github.com/takwaratec/fundo-vaga-lumen-2026
+**Público-alvo:** Membros do MST e comunidade do Assentamento Mário Lago — documentação simplificada e acessível.
+
+**Resultado:** ❌ Não aprovado no resultado preliminar (19/06). ✅ Recurso enviado (22/06) — aguardando resposta.
+
+---
+
+## Objetivo do Agente
+
+Ao ser acionado neste repositório, seu papel é:
+
+1. **Apoiar a captação de recursos** — identificar editais, transcrever regulamentos, preparar formulários
+2. **Organizar documentos** — converter PDFs/DOCX/ODT para .md, catalogar arquivos, manter estrutura padronizada
+3. **Manter o site atualizado** — MkDocs Material em `docs/`, deploy via `mkdocs gh-deploy --clean`
+4. **Responder aos membros** — linguagem simples e direta, sem jargão técnico desnecessário
+5. **Produzir conteúdo** — minutas, ofícios, atas, relatórios e materiais de divulgação
+
+---
+
+## Estrutura do Repositório
+
+```
+📂 02_PROPOSTAS/          → Proposta final do Viveiro-Educador
+📂 06_CARTOGRAFIA_IMAGENS/ → Mapas e imagens do território
+📂 07_DOCUMENTOS_PROJETO/  → Planilha orçamentária (.xlsx)
+📂 08_REDES_SOCIAIS/       → Artes para campanhas
+📂 09_IDENTIDADE_VISUAL/   → Logos e marca
+📂 14_MIDIAS_ASSETS/       → Fotos e mídias
+📂 15_EXTRACAO_PDFS/       → PDFs catalogados por assunto
+📂 docs/                   → Site MkDocs (fonte)
+│  📂 editais/             →   Regulamentos, fichas, formulários
+│  📂 projetos/            →   Propostas convertidas (.docx/.odt → .md)
+│  📂 documentos_projeto/  →   Atas, formulários, relatórios
+│  📂 documentos_administrativos/ → Estatuto, atas de fundação
+│  📂 assets/              →   CSS, JS, imagens do site
+📄 mkdocs.yml              → Configuração do MkDocs
+📄 sentinel_monitor.py     → Monitor de editais
+📄 README.md               → Instruções para os membros
+```
+
+---
+
+## Convenções para o Agente
+
+### Documentos
+- **Sempre converter** arquivos originais (.docx, .odt, .pdf) para .md antes de versionar
+- **NUNCA commitar** arquivos binários grandes (.pdf, .docx, .odt, .jpg, .opus) — vão para TRIAGEM-BRUTA/
+- **Nomear arquivos** em português, sem espaços, com hífens: `regulamento-juventude-solidaria.md`
+- **Incluir metadados** no topo de cada ficha: fonte, data, contexto
+
+### Editais
+Ao processar um novo edital:
+1. Baixar PDF do regulamento oficial
+2. Converter para .md → `docs/editais/regulamento-<edital>.md`
+3. Criar ficha de inscrição → `docs/editais/<edital>/ficha_inscricao.md`
+4. Adicionar ao `docs/editais/editais.md` (painel de chamadas)
+5. Adicionar navegação no `mkdocs.yml`
+6. Build + deploy: `mkdocs gh-deploy --clean`
+
+### Site (MkDocs)
+- Tema Material, português-BR
+- Após qualquer alteração em `docs/` ou `mkdocs.yml`, rodar `mkdocs gh-deploy --clean`
+- Links de documentos usam `https://github.com/.../blob/main/...` (evitar GH Pages para arquivos fora do nav)
+
+### Fluxo de trabalho
+1. `git pull` — sincronizar com remoto
+2. Fazer alterações
+3. `git add <arquivos>`
+4. `git commit -m "tipo: descrição concisa"`
+5. `git push`
+6. `mkdocs gh-deploy --clean` (se alterou docs/)
+
+---
+
+## Repositórios Irmãos
+
+| Repositório | Conteúdo | Público |
+|---|---|---|
+| `github.com/takwaratec/ECOSALA` | Coletivo de 11 membros — atas, projetos, fichas | Grupo de pesquisa |
+| `github.com/takwaratec/fundo-vaga-lumen-2026` | Proposta FINEP Mais Inovação | FINEP/avaliadores |
+| `github.com/takwaratec/Analises-e-escrita-cientifica` | Acervo científico — fichas, artigos, TRL | Acadêmico |
+| `github.com/takwaratec/plataforma-juventude-solidaria-2026` | **(este repo)** Viveiro-Educador Terra Viva | MST Mário Lago |
+
+---
+
+## Acervo Científico
+
+Para embasar propostas e consultar referências:
+👉 https://takwaratec.github.io/Analises-e-escrita-cientifica/
+
+---
+
+## Contato
+
+- **Murilo Miguel** — Coordenação do projeto (Coletivo Terra Viva)
+- **Fabio Takwara** — Suporte técnico e documentação
+
+---
+
+*AGENTS.md mantido pelo Hermes Agent · Tecnologia Takwara · 2026*
