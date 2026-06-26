@@ -90,6 +90,13 @@ Ao processar um novo edital:
 5. `git push`
 6. `mkdocs gh-deploy --clean` (se alterou docs/)
 
+### Regras críticas
+- ❌ NUNCA fabricar citações
+- ❌ NUNCA inflar TRL em propostas
+- ❌ NUNCA citar documentos internos (prefixos LAB_, ENG_, RES_, SCI_, TAK_) como evidência — só artigos públicos com DOI
+- ❌ NUNCA usar termos "biosoberano" ou "protocolos disso/daquilo" em textos públicos
+- ✅ Tecnologia Takwara = proposta TRL laboratorial, nunca como aplicada
+
 ---
 
 ## Repositórios Irmãos
