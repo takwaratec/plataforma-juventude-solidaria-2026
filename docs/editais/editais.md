@@ -2,7 +2,7 @@
 
 > Monitoramento contínuo de chamadas públicas, editais e fontes de financiamento
 > para o Viveiro-Educador Terra Viva e o Assentamento Mário Lago.
-> Atualizado: junho de 2026
+> Atualizado: 26 de junho de 2026
 
 ---
 
@@ -10,23 +10,26 @@
 
 | Edital / Chamada | Prazo | Valor | Status | Documento |
 |---|---|---|---|---|
-| **Juventude Solidária 01/2026** | 2026 | R$ 12.000 + bolsa | ✅ Submetido | [Proposta](juventude-solidaria-01-2026.md) |
+| **Juventude Solidária 01/2026** | Encerrado | R$ 12.000 + bolsa | ❌ Não aprovado + Recurso | [Proposta](juventude-solidaria-01-2026.md) |
 | **Fundo Casa: Juventudes e Justiça Climática** | 30/06/2026 | R$ 60.000 | 🔄 Em elaboração | [Ficha](fundo-casa-juventude-2026/ficha_inscricao_juventudes_2026.md) |
 | **Fundo Casa: Chamada Simplificada** | 14/07/2026 | R$ 20.000 | 🔄 Em elaboração | [Ficha](fundo-casa-simplificada-2026/ficha_inscricao_simplificada_2026.md) |
 | **Fundo Brasil: Soluções Climáticas da Base** | 31/07/2026 (prev.) | A consultar | 📝 Rascunho | — |
 
 ---
 
-## ✅ Submetidos
+## ❌ Submetidos — Resultado
 
 ### Juventude Solidária 01/2026 — Viveiro-Educador Terra Viva
 
 | Campo | Informação |
 |---|---|
-| **Órgão** | Secretaria Nacional da Juventude |
+| **Órgão** | Secretaria Nacional da Juventude / IFMT |
 | **Objeto** | Viveiro-Educador de Mudas no Assentamento Mário Lago |
-| **Valor** | R$ 12.000 + bolsa para jovem |
-| **Status** | ✅ Submetido — aguardando resultado |
+| **Valor** | R$ 12.000 + R$ 12.000 bolsa (6 parcelas) |
+| **Período** | 16 jul 2026 a 16 jan 2027 (previsto) |
+| **Resultado** | ❌ **Não aprovado** (resultado preliminar 19/06/2026) |
+| **Recurso** | ✅ Enviado em 22/06/2026 — aguardando resposta |
+| **Proponente** | Murilo Miguel (CPF 378.878.418-01) — Coletivo Terra Viva |
 | **Proposta** | [`juventude-solidaria-01-2026.md`](juventude-solidaria-01-2026.md) |
 
 ---
@@ -85,7 +88,7 @@
 
 > Este levantamento é atualizado semanalmente.
 >
-> 🔄 **Última atualização:** Junho de 2026
+> 🔄 **Última atualização:** 26 de junho de 2026
 >
 > 📬 Dúvidas ou sugestões de novos editais? Fale com a equipe.
 
