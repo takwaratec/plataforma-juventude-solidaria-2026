@@ -110,7 +110,7 @@ A estratégia de sustentabilidade do Coletivo Terra Viva, aliada à EcoSala Móv
 
 ## 🔗 Links Relacionados
 
-- [Atores e Perfis Completos](atores.md)
+- [Atores e Perfis Completos (ECOSALA)](https://github.com/takwaratec/ECOSALA)
 - [Projeto Viveiro-Educador](projetos/viveiro-educador.md)
 - [Projeto BNDES Bioinsumos](projetos/biofabricas-bndes.md)
 - [Território — APA Guarani](territorio.md)

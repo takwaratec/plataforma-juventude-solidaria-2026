@@ -10,7 +10,7 @@ Bem-vindo ao portal de **transparência e governança aberta** dos projetos terr
 O **Assentamento Mário Lago** abriga 450 famílias rurais em transição agroecológica. A regional do MST conta com um total de **4 assentamentos e 5 acampamentos** (~570 famílias), desenvolvendo mutirões de recuperação ecológica pós-queimadas de 2024 e produção de alimentos limpos.
 
 - [Saiba mais sobre o diagnóstico do território →](territorio.md)
-- [Conheça os atores e colaboradores da ATER →](atores.md)
+- [Conheça os atores e colaboradores → ECOSALA](https://github.com/takwaratec/ECOSALA)
 - [📜 História dos Coletivos Rurais →](historia.md)
 
 ---
