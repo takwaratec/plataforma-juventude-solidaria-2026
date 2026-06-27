@@ -115,6 +115,21 @@ Ao processar um novo edital:
 Para embasar propostas e consultar referências:
 👉 https://takwaratec.github.io/Analises-e-escrita-cientifica/
 
+### 🌿 Fichas técnicas relevantes para o Viveiro-Educador
+
+O Acervo Científico da Tecnologia Takwara foi expandido com fichas diretamente aplicáveis ao contexto dos assentamentos e à educação do campo:
+
+| Tema | Ficha | Link |
+|---|---|---|
+| 🌱 **Fitorremediação com Bambu** | Remediação de solos e águas contaminadas — aplicável a áreas degradadas em assentamentos | [ficha-fitorremediacao-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-fitorremediacao-bambu.md) |
+| 🔥 **Bambu e Queimadas na Amazônia** | O papel ecológico do bambu nativo na resiliência ao fogo | [ficha-bambu-queimadas.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-bambu-queimadas.md) |
+| 🌎 **Ecossistema do Bambu no Brasil** | Distribuição, espécies nativas e exóticas, potencial de manejo | [ficha-ecossistema-bambu-brasil.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-ecossistema-bambu-brasil.md) |
+| ♻️ **Forno Ecológico Multifuncional** | Pirólise lenta para biochar, pirolenhoso e energia — tecnologia MPTDF | [ficha-forno-ecologico-multifuncional.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-forno-ecologico-multifuncional.md) |
+| 📦 **Espécies de Bambu no Brasil** | Catálogo de espécies com potencial construtivo e energético | [ficha-especies-bambu-brasil.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-especies-bambu-brasil.md) |
+| 🌳 **Carbono e Crédito de Carbono** | Sequestro de carbono por florestas de bambu, metodologias VERRA | [ficha-carbono-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-carbono-bambu.md) · [ficha-credito-carbono-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-credito-carbono-bambu.md) |
+
+Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/)
+
 ---
 
 ## Contato
