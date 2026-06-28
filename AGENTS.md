@@ -139,4 +139,17 @@ Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientific
 
 ---
 
+## Gestão de Frentes de Trabalho
+
+Consulte o arquivo `FRENTES_DE_TRABALHO.md` no repositório mestre (`Mentoria_Tecnologia_Takwara`) para o mapa completo de todas as frentes e regras de fronteira.
+
+---
+
+## Protocolo de Governança (Geral)
+
+Trabalhos de campo com comunidades só após observância das Salvaguardas de Cancún (REDD+).
+Referência: [GOV_PROTOCOLO_SEGURANCA_CANCUN.md](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md)
+
+---
+
 *AGENTS.md mantido pelo Hermes Agent · Tecnologia Takwara · 2026*
