@@ -32,6 +32,9 @@ docs/assets/images/**
 !docs/assets/javascripts/
 docs/assets/javascripts/**
 !docs/assets/javascripts/mermaid.js
+!docs/assets/stylesheets/
+docs/assets/stylesheets/**
+!docs/assets/stylesheets/extra.css
 
 # Dados e formulários
 *.xlsx

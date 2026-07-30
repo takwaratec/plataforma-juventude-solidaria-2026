@@ -15,68 +15,43 @@ visita.
 ## Fluxo de coleta, assinatura e encaminhamento
 
 ```mermaid
-flowchart TB
-    I["1. Preparação comunitária<br/>Definir famílias, agente responsável e finalidade"] --> C
+%%{init: {"flowchart": {"curve": "linear", "nodeSpacing": 18, "rankSpacing": 28}, "themeVariables": {"fontSize": "16px"}}}%%
+flowchart TD
+    A["1 · PREPARAÇÃO<br/>Famílias, finalidade e agente responsável"]
+    B["2 · AGENTE — COLETA OFFLINE<br/>Dados, ocupação, lote e documentos"]
+    C["3 · AGENTE — TRIAGEM<br/>Conferir legibilidade, coerência e pendências"]
+    D["4 · DEFINIR O PROCEDIMENTO<br/>Ocupante · PNRA · CCU · título · CAF"]
+    E["5 · AGENTE — DOSSIÊ<br/>Checklist, provas e formulários aplicáveis"]
+    F["6 · FÍSICO — IMPRESSÃO EM LOTE<br/>Um caderno identificado por família"]
+    G["7 · FÍSICO — SEGUNDA VISITA<br/>Originais, correções, ciência e assinaturas"]
+    H["8 · AGENTE — DIGITALIZAÇÃO<br/>Conjunto assinado e anexos conferidos"]
+    I["9 · ESCOLHER O CANAL PÚBLICO<br/>PGT/Incra · CAFWeb · atendimento presencial"]
+    J["10 · EXECUÇÃO AUTORIZADA<br/>PGT: requerente com gov.br próprio<br/>CAFWeb: cadastrador habilitado"]
+    K["11 · ACOMPANHAMENTO<br/>Protocolo, exigências, correções e resultado"]
 
-    subgraph AG["ATUAÇÃO DO AGENTE — presencial ou aplicativo offline"]
-        C["2. Coleta assistida<br/>Dados familiares, ocupação, lote, atividade e documentos"]
-        V["3. Verificação preliminar<br/>Legibilidade, consistência, duplicidades e pendências"]
-        D{"4. Qual é a demanda?"}
-        R["5. Montagem do dossiê<br/>Checklist, provas numeradas e formulários aplicáveis"]
-        C --> V --> D --> R
-    end
+    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
 
-    subgraph FI["FÍSICO / IMPRESSO"]
-        P["6. Impressão em lote<br/>Um caderno identificado por família"]
-        F["7. Segunda visita<br/>Conferência com documentos originais"]
-        S["8. Assinaturas<br/>Declarações, autorização de encaminhamento e recibo"]
-        DI["9. Digitalização do conjunto assinado"]
-        P --> F --> S --> DI
-    end
+    classDef agente fill:#e8f5e9,stroke:#2e7d32,color:#1b1b1b;
+    classDef fisico fill:#fff3e0,stroke:#ef6c00,color:#1b1b1b;
+    classDef publico fill:#e3f2fd,stroke:#1565c0,color:#1b1b1b;
 
-    R --> P
-
-    D -->|"Ocupante não reconhecido"| O["Regularização de ocupante"]
-    D -->|"Beneficiário PNRA"| B["Atualização, certidão ou CCU"]
-    D -->|"Apto à titulação"| T["Título TD/CDRU"]
-    D -->|"Agricultura familiar"| A["Consulta ou inscrição no CAF"]
-
-    O --> R
-    B --> R
-    T --> R
-    A --> R
-
-    subgraph CP["CANAIS PÚBLICOS VIRTUAIS"]
-        G["Conta gov.br do próprio requerente"]
-        PGT["PGT / Incra<br/>Regularização, CCU, certidão e título"]
-        CAF["CAFWeb<br/>Agente cadastrador habilitado"]
-        PRO["Protocolo, pendências e acompanhamento"]
-        G --> PGT --> PRO
-        CAF --> PRO
-    end
-
-    DI --> E{"Quem pode encaminhar?"}
-    E -->|"Serviços pessoais do Incra"| G
-    E -->|"CAF"| CAF
-    E -->|"Sistema indisponível ou caso excepcional"| AT["Atendimento presencial<br/>Incra / Sala da Cidadania"]
-
-    subgraph LIM["LIMITES DO AGENTE COMUNITÁRIO"]
-        L1["Pode coletar, conferir, organizar,<br/>digitalizar, imprimir e orientar"]
-        L2["Não pode guardar senha,<br/>código de autenticação ou se passar pelo requerente"]
-        L3["Só protocola diretamente se possuir<br/>credencial institucional aceita pelo órgão"]
-    end
-
-    C -.-> L1
-    G -.-> L2
-    E -.-> L3
-
-    PRO --> RET["10. Retorno à família<br/>Protocolo, exigências, correções ou resultado"]
-    AT --> RET
+    class B,C,E,H agente;
+    class F,G fisico;
+    class I,J,K publico;
 ```
 
-O agente pode preparar o processo, mas o protocolo pessoal na PGT utiliza a conta gov.br
-do requerente. No CAF, o encaminhamento pode ser realizado por agente cadastrador
-formalmente habilitado.
+**Agente comunitário:** coleta, confere, organiza, digitaliza, imprime e orienta.
+
+**Documento físico:** originais, declarações aplicáveis, autorização de encaminhamento,
+assinaturas e recibo.
+
+**Canal público virtual:** o protocolo pessoal na PGT utiliza a conta gov.br do requerente.
+No CAFWeb, o encaminhamento pode ser realizado por cadastrador formalmente habilitado.
+
+!!! warning "Credenciais"
+    O agente não deve guardar senha ou código de autenticação, nem utilizar a conta gov.br
+    como se fosse o requerente. A execução direta exige credencial institucional aceita pelo
+    órgão.
 
 ## Primeiro passo: identificar o procedimento
 
