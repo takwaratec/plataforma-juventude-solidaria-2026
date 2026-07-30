@@ -14,31 +14,55 @@ visita.
 
 ## Fluxo de coleta, assinatura e encaminhamento
 
+<div class="flow-grid" markdown>
+
+<div class="flow-column" markdown>
+
+### 1. Agente e aplicativo
+
 ```mermaid
-%%{init: {"flowchart": {"curve": "linear", "nodeSpacing": 18, "rankSpacing": 28}, "themeVariables": {"fontSize": "16px"}}}%%
 flowchart TD
-    A["1 · PREPARAÇÃO<br/>Famílias, finalidade e agente responsável"]
-    B["2 · AGENTE — COLETA OFFLINE<br/>Dados, ocupação, lote e documentos"]
-    C["3 · AGENTE — TRIAGEM<br/>Conferir legibilidade, coerência e pendências"]
-    D["4 · DEFINIR O PROCEDIMENTO<br/>Ocupante · PNRA · CCU · título · CAF"]
-    E["5 · AGENTE — DOSSIÊ<br/>Checklist, provas e formulários aplicáveis"]
-    F["6 · FÍSICO — IMPRESSÃO EM LOTE<br/>Um caderno identificado por família"]
-    G["7 · FÍSICO — SEGUNDA VISITA<br/>Originais, correções, ciência e assinaturas"]
-    H["8 · AGENTE — DIGITALIZAÇÃO<br/>Conjunto assinado e anexos conferidos"]
-    I["9 · ESCOLHER O CANAL PÚBLICO<br/>PGT/Incra · CAFWeb · atendimento presencial"]
-    J["10 · EXECUÇÃO AUTORIZADA<br/>PGT: requerente com gov.br próprio<br/>CAFWeb: cadastrador habilitado"]
-    K["11 · ACOMPANHAMENTO<br/>Protocolo, exigências, correções e resultado"]
-
-    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
-
-    classDef agente fill:#e8f5e9,stroke:#2e7d32,color:#1b1b1b;
-    classDef fisico fill:#fff3e0,stroke:#ef6c00,color:#1b1b1b;
-    classDef publico fill:#e3f2fd,stroke:#1565c0,color:#1b1b1b;
-
-    class B,C,E,H agente;
-    class F,G fisico;
-    class I,J,K publico;
+    A["1 · PREPARAÇÃO<br/>Famílias, finalidade<br/>e agente responsável"]
+    B["2 · COLETA OFFLINE<br/>Dados, ocupação, lote<br/>e documentos"]
+    C["3 · TRIAGEM<br/>Coerência, legibilidade<br/>e pendências"]
+    D["4 · PROCEDIMENTO<br/>Ocupante · PNRA · CCU<br/>título · CAF"]
+    E["5 · DOSSIÊ<br/>Checklist, provas<br/>e formulários"]
+    A --> B --> C --> D --> E
 ```
+
+</div>
+
+<div class="flow-column" markdown>
+
+### 2. Documento físico
+
+```mermaid
+flowchart TD
+    F["6 · IMPRESSÃO EM LOTE<br/>Um caderno<br/>por família"]
+    G["7 · SEGUNDA VISITA<br/>Conferir documentos<br/>originais"]
+    H["8 · ASSINATURAS<br/>Ciência, declarações<br/>e recibo"]
+    I["9 · DIGITALIZAÇÃO<br/>Conjunto assinado<br/>e anexos"]
+    F --> G --> H --> I
+```
+
+</div>
+
+<div class="flow-column" markdown>
+
+### 3. Canal público
+
+```mermaid
+flowchart TD
+    J["10 · ESCOLHER O CANAL<br/>PGT/Incra · CAFWeb<br/>atendimento presencial"]
+    K["11 · EXECUÇÃO<br/>PGT: requerente<br/>CAF: cadastrador habilitado"]
+    L["12 · PROTOCOLO<br/>Registrar número<br/>e pendências"]
+    M["13 · RETORNO À FAMÍLIA<br/>Exigências, correções<br/>ou resultado"]
+    J --> K --> L --> M
+```
+
+</div>
+
+</div>
 
 **Agente comunitário:** coleta, confere, organiza, digitaliza, imprime e orienta.
 
