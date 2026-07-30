@@ -53,6 +53,8 @@
       
     
     
+      <link rel="stylesheet" href="../assets/stylesheets/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -1202,66 +1204,40 @@ checklist, documentos digitalizados e formulários aplicáveis. Depois da revis�
 poderá gerar em lote os cadernos de cada família para conferência e assinatura em uma nova
 visita.</p>
 <h2 id="fluxo-de-coleta-assinatura-e-encaminhamento">Fluxo de coleta, assinatura e encaminhamento</h2>
-<pre class="mermaid"><code>flowchart TB
-    I["1. Preparação comunitária&lt;br/&gt;Definir famílias, agente responsável e finalidade"] --&gt; C
+<pre class="mermaid"><code>%%{init: {"flowchart": {"curve": "linear", "nodeSpacing": 18, "rankSpacing": 28}, "themeVariables": {"fontSize": "16px"}}}%%
+flowchart TD
+    A["1 · PREPARAÇÃO&lt;br/&gt;Famílias, finalidade e agente responsável"]
+    B["2 · AGENTE — COLETA OFFLINE&lt;br/&gt;Dados, ocupação, lote e documentos"]
+    C["3 · AGENTE — TRIAGEM&lt;br/&gt;Conferir legibilidade, coerência e pendências"]
+    D["4 · DEFINIR O PROCEDIMENTO&lt;br/&gt;Ocupante · PNRA · CCU · título · CAF"]
+    E["5 · AGENTE — DOSSIÊ&lt;br/&gt;Checklist, provas e formulários aplicáveis"]
+    F["6 · FÍSICO — IMPRESSÃO EM LOTE&lt;br/&gt;Um caderno identificado por família"]
+    G["7 · FÍSICO — SEGUNDA VISITA&lt;br/&gt;Originais, correções, ciência e assinaturas"]
+    H["8 · AGENTE — DIGITALIZAÇÃO&lt;br/&gt;Conjunto assinado e anexos conferidos"]
+    I["9 · ESCOLHER O CANAL PÚBLICO&lt;br/&gt;PGT/Incra · CAFWeb · atendimento presencial"]
+    J["10 · EXECUÇÃO AUTORIZADA&lt;br/&gt;PGT: requerente com gov.br próprio&lt;br/&gt;CAFWeb: cadastrador habilitado"]
+    K["11 · ACOMPANHAMENTO&lt;br/&gt;Protocolo, exigências, correções e resultado"]
 
-    subgraph AG["ATUAÇÃO DO AGENTE — presencial ou aplicativo offline"]
-        C["2. Coleta assistida&lt;br/&gt;Dados familiares, ocupação, lote, atividade e documentos"]
-        V["3. Verificação preliminar&lt;br/&gt;Legibilidade, consistência, duplicidades e pendências"]
-        D{"4. Qual é a demanda?"}
-        R["5. Montagem do dossiê&lt;br/&gt;Checklist, provas numeradas e formulários aplicáveis"]
-        C --&gt; V --&gt; D --&gt; R
-    end
+    A --&gt; B --&gt; C --&gt; D --&gt; E --&gt; F --&gt; G --&gt; H --&gt; I --&gt; J --&gt; K
 
-    subgraph FI["FÍSICO / IMPRESSO"]
-        P["6. Impressão em lote&lt;br/&gt;Um caderno identificado por família"]
-        F["7. Segunda visita&lt;br/&gt;Conferência com documentos originais"]
-        S["8. Assinaturas&lt;br/&gt;Declarações, autorização de encaminhamento e recibo"]
-        DI["9. Digitalização do conjunto assinado"]
-        P --&gt; F --&gt; S --&gt; DI
-    end
+    classDef agente fill:#e8f5e9,stroke:#2e7d32,color:#1b1b1b;
+    classDef fisico fill:#fff3e0,stroke:#ef6c00,color:#1b1b1b;
+    classDef publico fill:#e3f2fd,stroke:#1565c0,color:#1b1b1b;
 
-    R --&gt; P
-
-    D --&gt;|"Ocupante não reconhecido"| O["Regularização de ocupante"]
-    D --&gt;|"Beneficiário PNRA"| B["Atualização, certidão ou CCU"]
-    D --&gt;|"Apto à titulação"| T["Título TD/CDRU"]
-    D --&gt;|"Agricultura familiar"| A["Consulta ou inscrição no CAF"]
-
-    O --&gt; R
-    B --&gt; R
-    T --&gt; R
-    A --&gt; R
-
-    subgraph CP["CANAIS PÚBLICOS VIRTUAIS"]
-        G["Conta gov.br do próprio requerente"]
-        PGT["PGT / Incra&lt;br/&gt;Regularização, CCU, certidão e título"]
-        CAF["CAFWeb&lt;br/&gt;Agente cadastrador habilitado"]
-        PRO["Protocolo, pendências e acompanhamento"]
-        G --&gt; PGT --&gt; PRO
-        CAF --&gt; PRO
-    end
-
-    DI --&gt; E{"Quem pode encaminhar?"}
-    E --&gt;|"Serviços pessoais do Incra"| G
-    E --&gt;|"CAF"| CAF
-    E --&gt;|"Sistema indisponível ou caso excepcional"| AT["Atendimento presencial&lt;br/&gt;Incra / Sala da Cidadania"]
-
-    subgraph LIM["LIMITES DO AGENTE COMUNITÁRIO"]
-        L1["Pode coletar, conferir, organizar,&lt;br/&gt;digitalizar, imprimir e orientar"]
-        L2["Não pode guardar senha,&lt;br/&gt;código de autenticação ou se passar pelo requerente"]
-        L3["Só protocola diretamente se possuir&lt;br/&gt;credencial institucional aceita pelo órgão"]
-    end
-
-    C -.-&gt; L1
-    G -.-&gt; L2
-    E -.-&gt; L3
-
-    PRO --&gt; RET["10. Retorno à família&lt;br/&gt;Protocolo, exigências, correções ou resultado"]
-    AT --&gt; RET</code></pre>
-<p>O agente pode preparar o processo, mas o protocolo pessoal na PGT utiliza a conta gov.br
-do requerente. No CAF, o encaminhamento pode ser realizado por agente cadastrador
-formalmente habilitado.</p>
+    class B,C,E,H agente;
+    class F,G fisico;
+    class I,J,K publico;</code></pre>
+<p><strong>Agente comunitário:</strong> coleta, confere, organiza, digitaliza, imprime e orienta.</p>
+<p><strong>Documento físico:</strong> originais, declarações aplicáveis, autorização de encaminhamento,
+assinaturas e recibo.</p>
+<p><strong>Canal público virtual:</strong> o protocolo pessoal na PGT utiliza a conta gov.br do requerente.
+No CAFWeb, o encaminhamento pode ser realizado por cadastrador formalmente habilitado.</p>
+<div class="admonition warning">
+<p class="admonition-title">Credenciais</p>
+<p>O agente não deve guardar senha ou código de autenticação, nem utilizar a conta gov.br
+como se fosse o requerente. A execução direta exige credencial institucional aceita pelo
+órgão.</p>
+</div>
 <h2 id="primeiro-passo-identificar-o-procedimento">Primeiro passo: identificar o procedimento</h2>
 <table>
 <thead>
