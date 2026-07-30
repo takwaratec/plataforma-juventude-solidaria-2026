@@ -1,98 +1,68 @@
-# ===================================================================
-#          MKDOCS.YML - PLATAFORMA JUVENTUDE SOLIDÁRIA 2026
-# ===================================================================
-
-site_name: Juventude Solidária
+site_name: Terra Viva — Mário Lago
+site_description: Memória, orientação e qualificação documental do Coletivo Terra Viva
 site_url: https://takwaratec.github.io/plataforma-juventude-solidaria-2026/
-repo_name: plataforma-juventude-solidaria-2026
+repo_name: takwaratec/plataforma-juventude-solidaria-2026
 repo_url: https://github.com/takwaratec/plataforma-juventude-solidaria-2026
-edit_uri: ''
+edit_uri: ""
+copyright: "© Coletivo Terra Viva, 2026 · Organização documental e infraestrutura digital: Tecnologia Takwara"
 
 theme:
   name: material
   language: pt-BR
   logo: assets/images/terra_viva.png
   favicon: assets/images/terra_viva.png
-  features:
-    - content.code.annotate
-    - search.suggest
-    - search.highlight
-    - navigation.sticky
-    - navigation.tabs.sticky
-    - navigation.tracking
-    - navigation.collapse
   palette:
     - scheme: slate
       primary: green
-      accent: indigo
+      accent: green
       toggle:
-        icon: material/toggle-switch
-        name: Mudar para o modo escuro
+        icon: material/weather-sunny
+        name: Modo claro
     - scheme: default
       primary: green
-      accent: indigo
+      accent: green
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Mudar para o modo claro
-
+        icon: material/weather-night
+        name: Modo escuro
+  features:
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
 
 extra:
-  csp_nonce: "a-random-string-of-your-choice"
-
-extra_css:
-  - assets/css/custom.css
-  - assets/css/extra.css
-  - https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
-  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
-
-extra_javascript:
-  - https://unpkg.com/mermaid@10.9.0/dist/mermaid.min.js
-  - path: https://unpkg.com/vis-network/standalone/umd/vis-network.min.js
-    defer: true
-  - path: https://cdn.jsdelivr.net/npm/marked/marked.min.js
-    defer: true
-  - path: https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
-    defer: true
-  - path: assets/js/custom.js
-    defer: true
-  - path: https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
-    defer: true
+  generator: false
 
 markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
+  - tables
   - attr_list
   - md_in_html
-  - admonition
+
+plugins:
+  - search
+
+exclude_docs: |
+  PROPOSTA_GABARITO_JUVENTUDE_SOLIDARIA.md
+  acervo-digitalizado.md
+  analise-propostas.md
+  boletim_sentinel_editais_2026.md
+  documentos_administrativos/**
+  documentos_projeto/**
+  editais/**
+  historia.md
+  projetos/**
+  territorio.md
 
 nav:
-  - "Início": index.md
-  - "O Território": territorio.md
-  - "Nossa História": historia.md
-  - "Projetos":
-    - "Viveiro-Educador": projetos/viveiro-educador.md
-    - "Proposta Árvore da Vida": projetos/viveiro-arvore-da-vida.md
-    - "Viveiro Bambu v1 (Fabio)": projetos/viveiro-bambu-fabio-v1.md
-    - "Viveiro Bambu v2 (Fabio)": projetos/viveiro-bambu-fabio-v2.md
-    - "Gabarito Juventude Solidária": projetos/PROPOSTA_GABARITO_JUVENTUDE_SOLIDARIA.md
-    - "Biofábricas BNDES": projetos/biofabricas-bndes.md
-    - "Logística e Silvicultura do Bambu": projetos/bambu-silvicultura.md
-  - "Documentos do Projeto":
-    - "Carta de Boas Vindas": documentos_projeto/CARTA DE BOAS VINDAS.md
-    - "Folha de Rosto": documentos_projeto/Folha de rosto.md
-    - "Plano de Oficinas 2026": documentos_projeto/Projeto2026.md
-    - "Relato CBA Terra Viva": documentos_projeto/Terra Viva_Relato de Experiencia Tecnica_13 CBA.md
-    - "Declaração Comunitária": documentos_projeto/declaracao-comunidade-1024.md
-    - "Formulário Mata Atlântica": documentos_projeto/formulario-mata-atlantica-25.md
-  - "Documentos Administrativos":
-    - "Ata de Fundação": documentos_administrativos/ATA DE FUNDACAO.md
-    - "Estatuto do Coletivo": documentos_administrativos/16 - ESTATUTO.md
-    - "Ata de Eleição": documentos_administrativos/15 - ATA DE ELEICAO DA DIRETORIA.md
-    - "Relação de Dirigentes": documentos_administrativos/RELACAO NOMINAL DE DIRIGENTES.md
-  - "📢 Editais": editais/editais.md
-  - "📋 Regulamento Juventude Solidária": editais/regulamento-juventude-solidaria.md
-
-
+  - Início: index.md
+  - Histórico consolidado: historico-consolidado.md
+  - Memória e preservação: memoria-preservacao.md
+  - Governança e colaboração: governanca-colaboracao.md
+  - Roteiro de apoio concreto: roteiro-apoio-concreto.md
+  - Frentes e encaminhamentos: frentes-encaminhamentos.md
+  - Zayed Award 2027: zayed-award-2027.md
+  - Juventude Solidária 2026: juventude-solidaria-2026.md
+  - Acervo científico: https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/
+  - ECOSALA: https://takwaratec.github.io/ECOSALA/territorios/reforma-agraria-agrofloresta/

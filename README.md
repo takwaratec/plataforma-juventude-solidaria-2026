@@ -1,64 +1,42 @@
-# 🌱 Viveiro-Educador Terra Viva — Assentamento Mário Lago
+# Terra Viva — Mário Lago
 
-**Projeto submetido ao edital Juventude Solidária 01/2026.**  
-❌ Não aprovado no resultado preliminar · ✅ Recurso enviado em 22/06 — aguardando resposta.
+Repositório de memória, orientação e qualificação documental do **Coletivo Terra Viva**, com atuação territorial no Assentamento Mário Lago, em Ribeirão Preto (SP).
 
----
+O repositório preserva o histórico da proposta apresentada à Plataforma Juventude Solidária em 2026 e passa a apoiar frentes permanentes de organização, formação, recuperação ambiental e acesso responsável a oportunidades.
 
-## 🌐 Site do Projeto
+## Relações de colaboração
 
-👉 **https://takwaratec.github.io/plataforma-juventude-solidaria-2026/**
+- **Coletivo Terra Viva:** define prioridades, valida informações e autoriza a divulgação de sua atuação.
+- **Núcleo Takwara:** apoio técnico, curadoria documental, inteligência de oportunidades e infraestrutura digital.
+- **ECOSALA:** rede de profissionais que pode ser mobilizada por demanda, mediante adesão e definição de entregáveis.
+- **Acervo Soberania Tecnológica:** lastro científico e técnico verificável.
 
-Lá você encontra tudo organizado: editais, documentos, projetos e histórico.
+Essas relações não autorizam qualquer participante a representar o MST, o assentamento ou o coletivo sem mandato específico.
 
----
+## Frentes
 
-## 📋 Editais ativos
+- memória e identidade territorial;
+- Viveiro-Educador e recuperação ambiental;
+- juventude, formação e geração de renda;
+- qualificação institucional;
+- assessoria técnica da ECOSALA;
+- Zayed Award for Human Fraternity 2027;
+- orientação para políticas públicas, em fluxo próprio;
+- prospecção de ferramenta offline para triagem documental.
 
-| Edital | Prazo | Situação |
-|---|---|---|
-| Juventude Solidária 01/2026 | Encerrado | ❌ Não aprovado + Recurso |
-| Fundo Casa — Juventudes | **30/jun** (urgente) | 🔄 Elaborando |
-| Fundo Casa — Simplificada | 14/jul | 🔄 Elaborando |
+Cada frente possui requisitos próprios. CAF, regularização territorial, aplicativo e Viveiro-Educador não são exigências do Zayed Award.
 
-Detalhes e fichas de inscrição no site → **Editais**
+## Conteúdo público
 
----
+O site publica somente páginas validadas e sem dados pessoais:
 
-## 📂 Pastas do repositório
+<https://takwaratec.github.io/plataforma-juventude-solidaria-2026/>
 
-| Pasta | O que tem |
-|---|---|
-| `02_PROPOSTAS/` | Proposta final do Viveiro-Educador |
-| `06_CARTOGRAFIA_IMAGENS/` | Mapas e fotos do território |
-| `07_DOCUMENTOS_PROJETO/` | Planilha orçamentária |
-| `08_REDES_SOCIAIS/` | Artes para campanhas |
-| `09_IDENTIDADE_VISUAL/` | Logos |
-| `14_MIDIAS_ASSETS/` | Fotos e mídias |
-| `docs/` | Arquivos do site (editais, projetos, histórico) |
+Documentos administrativos, formulários preenchidos, conversas, mídias brutas, dados bancários, mapas sensíveis e identificadores pessoais não pertencem à publicação pública.
 
----
+## Referências
 
-## 📲 Baixar
+- [ECOSALA](https://takwaratec.github.io/ECOSALA/)
+- [Acervo — Reforma Agrária e Agrofloresta](https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/)
 
-Botão verde **Code** → **Download ZIP** no GitHub.  
-Ou acesse o site direto — não precisa baixar nada.
-
----
-
-## 📚 Acervo científico
-
-Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
-👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
-
----
-
-## 🔗 Projetos irmãos
-
-- **ECOSALA** (grupo de pesquisa): [github.com/takwaratec/ECOSALA](https://github.com/takwaratec/ECOSALA)
-- **Vaga Lúmen** (proposta FINEP): [github.com/takwaratec/fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026)
-
----
-
-Dúvidas: Murilo Miguel (Terra Viva) ou Fabio Takwara.
-*Atualizado: 26/06/2026 — após depuração do grupo de WhatsApp.*
+*Organização documental e infraestrutura digital: Tecnologia Takwara · 2026.*

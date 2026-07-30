@@ -1,66 +1,52 @@
-# 🌾 Plataforma de Governança e Projetos — Assentamento Mário Lago
-**Hub Territorial de Projetos de Agroecologia, Tecnologias do Bambu e Captação de Recursos**
+# Terra Viva — Mário Lago
 
-Bem-vindo ao portal de **transparência e governança aberta** dos projetos territoriais desenvolvidos pela juventude e cooperativas do Assentamento Mário Lago (Ribeirão Preto/SP), voltados à bioeconomia, soberania alimentar e restauração ambiental na zona de recarga do Aquífero Guarani.
+Este é o espaço público de memória e orientação do Coletivo Terra Viva, com atuação territorial no Assentamento Mário Lago, em Ribeirão Preto (SP).
 
----
+O repositório nasceu durante a preparação do Viveiro-Educador para a Plataforma Juventude Solidária em junho de 2026. A experiência revelou uma necessidade permanente: organizar a trajetória do coletivo, proteger seus documentos e facilitar a colaboração com profissionais e instituições sem retirar do território o poder de decisão.
 
-## 🗺️ O Território e os Atores
+## Orientação atual
 
-O **Assentamento Mário Lago** abriga 450 famílias rurais em transição agroecológica. A regional do MST conta com um total de **4 assentamentos e 5 acampamentos** (~570 famílias), desenvolvendo mutirões de recuperação ecológica pós-queimadas de 2024 e produção de alimentos limpos.
+O território apresenta suas necessidades e valida as informações. O Núcleo Takwara apoia a organização documental e técnica. A ECOSALA pode mobilizar competências profissionais por demanda, com atribuições e entregáveis previamente definidos.
 
-- [Saiba mais sobre o diagnóstico do território →](territorio.md)
-- [Conheça os atores e colaboradores → ECOSALA](https://github.com/takwaratec/ECOSALA)
-- [📜 História dos Coletivos Rurais →](historia.md)
+Essa colaboração não equivale à representação do MST, do assentamento ou do coletivo.
 
----
+## Frentes de atuação
 
-## 📢 Captação de Fomento e Editais (Boletim Sentinel)
+| Frente | Finalidade | Situação |
+|---|---|---|
+| Memória e identidade | Organizar trajetória, atividades e evidências | Em consolidação |
+| Viveiro-Educador | Produção de mudas, formação e recuperação ambiental | Projeto em continuidade |
+| Juventude | Formação, participação e geração de oportunidades | Permanente |
+| Qualificação institucional | Governança, documentos e capacidade de captação | Em estruturação |
+| Assessoria ECOSALA | Mobilizar profissionais conforme demandas validadas | Em pactuação |
+| Zayed Award 2027 | Preparar avaliação por potencial nomeador elegível | Frente prioritária |
+| Políticas públicas | Orientação documental, incluindo CAF quando pertinente | Frente independente |
+| Ferramenta offline | Apoiar orientação e triagem documental em campo | Prospecção |
 
-O monitoramento e formatação de propostas de captação de recursos seguem as diretrizes da **Sentinela MQTF**, buscando enquadrar as tecnologias apropriadas de bioconstrução com bambu, forno ecológico de cinzas/pirolenhoso e SAFs.
+## Separação entre as frentes
 
-*   [📂 Acessar Boletim Sentinel – Junho/2026](editais/boletim-sentinel-junho-2026/boletim_sentinel_junho_2026.md)
+O Zayed Award for Human Fraternity reconhece trajetória humanitária e comunitária. Não exige CAF, regularização fundiária, aplicativo, plano de trabalho ou orçamento de projeto.
 
-### Editais em Foco:
-*   **Fundo Casa Simplificada 2026** (Teto: R$ 20.000,00 | Foco: Unidade de Tratamento de Bambu a Vapor):
-    *   [📂 Ficha de Inscrição da Proposta](editais/fundo-casa-simplificada-2026/ficha_inscricao_simplificada_2026.md)
-*   **Fundo Casa Juventudes 2026** (Teto: R$ 60.000,00 | Foco: Viveiro-Educador Terra Viva):
-    *   [📂 Ficha de Inscrição da Proposta](editais/fundo-casa-juventude-2026/ficha_inscricao_juventudes_2026.md)
+O CAF e a possível ferramenta offline pertencem à qualificação para políticas públicas. O Viveiro-Educador pertence à atuação territorial. Essas frentes podem produzir evidências de organização e impacto, mas não são requisitos umas das outras.
 
----
+## Documentos públicos
 
-## 📋 Repositório Geral de Projetos do Território
+- [Histórico consolidado](historico-consolidado.md)
+- [Memória e preservação do acervo](memoria-preservacao.md)
+- [Governança e colaboração](governanca-colaboracao.md)
+- [Roteiro de apoio concreto](roteiro-apoio-concreto.md)
+- [Frentes e encaminhamentos](frentes-encaminhamentos.md)
+- [Orientação para o Zayed Award 2027](zayed-award-2027.md)
+- [Registro da Plataforma Juventude Solidária](juventude-solidaria-2026.md)
 
-Atuamos sob um modelo modular onde cada iniciativa de fomento constitui um projeto autônomo com acompanhamento público.
+## Lastro científico
 
-### 1. 🌱 Viveiro-Educador de Mudas - Terra Viva
-- **Linha de Fomento**: Plataforma Juventude Solidária (IFSP/MEC)
-- **Custeio**: R$ 12.000,00 custeio + R$ 12.000,00 bolsa = **R$ 24.000,00**
-- **Estrutura**: Viveiro 4m x 8m de bambu tratado com cobertura de sombrite 50%
-- [📊 Acompanhar Detalhes e Status do Projeto →](projetos/viveiro-educador.md)
-- [📄 Acessar Gabarito Físico de Submissão →](projetos/PROPOSTA_GABARITO_JUVENTUDE_SOLIDARIA.md)
+A gaveta [Reforma Agrária e Agrofloresta](https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/) reúne referências verificáveis sobre agricultura familiar, agroecologia, sistemas agroflorestais, educação do campo, juventude rural e restauração.
 
-### 2. 🚚 Rede de Biofábricas Itinerantes (ECOSALA Móvel)
-- **Linha de Fomento**: BNDES Bioinsumos – 2º Ciclo
-- **Orçamento**: **R$ 7.850.000,00**
-- **Escopo**: Forno retorta com condensador de pirolenhoso, biochar de bambu e frota de maquinários para os assentamentos
-- [📊 Acompanhar Rascunho da Proposta BNDES →](projetos/biofabricas-bndes.md)
+A [ECOSALA](https://takwaratec.github.io/ECOSALA/territorios/reforma-agraria-agrofloresta/) organiza o fluxo de assessoria e mobilização profissional.
 
----
+## Proteção documental
 
-## 📚 Acervo Digitalizado de Pesquisa e Referência
+Formulários preenchidos, CPFs, RGs, endereços, telefones, e-mails privados, dados bancários, atas administrativas integrais, mapas sensíveis e conversas não são publicados.
 
-Todo o acervo documental composto por **18 PDFs** técnicos (438 páginas) sobre educação ambiental, cartilhas construtivas de estufa e viveiros do SENAR/FEHIDRO e painéis mecânicos do forno MPTDF foi transcrito e catalogado.
-
-- [📂 Ver índice geral do acervo de referência →](acervo-digitalizado.md)
-
----
-
-## 📡 Histórico de Atualizações
-
-| Data | Evento |
-|---|---|
-| 24/06/2026 | 📢 **Boletim Sentinel Junho/2026** publicado com as fichas do Fundo Casa Simplificada e Juventudes |
-| 08/06/2026 | Acervo digitalizado: 18 PDFs estruturados com catálogo de 1.005 imagens |
-| 05/06/2026 | Gabarito de submissão do Viveiro-Educador Mário Lago (formatado 4m x 8m) concluído |
-| 05/05/2026 | Reunião de Planejamento EcoSala Móvel – IFSP/MST |
+*Site público do Coletivo Terra Viva · Organização documental com apoio da Tecnologia Takwara · 2026.*

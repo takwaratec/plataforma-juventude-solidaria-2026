@@ -1,6 +1,39 @@
 # TRIAGEM-BRUTA — Material nao versionado
 TRIAGEM-BRUTA/
 
+# Acervo local e documentos não publicáveis
+02_PROPOSTAS/
+06_CARTOGRAFIA_IMAGENS/
+07_DOCUMENTOS_PROJETO/
+08_REDES_SOCIAIS/
+09_IDENTIDADE_VISUAL/
+13_PROJETOS/
+14_MIDIAS_ASSETS/
+15_EXTRACAO_PDFS/
+
+# Fontes internas, formulários e versões legadas
+docs/documentos_administrativos/
+docs/documentos_projeto/
+docs/editais/
+docs/projetos/
+docs/PROPOSTA_GABARITO_JUVENTUDE_SOLIDARIA.md
+docs/acervo-digitalizado.md
+docs/analise-propostas.md
+docs/boletim_sentinel_editais_2026.md
+docs/historia.md
+docs/territorio.md
+sentinel_monitor.py
+
+# Ativos legados locais; somente a identidade pública é versionada
+docs/assets/**
+!docs/assets/images/
+docs/assets/images/**
+!docs/assets/images/terra_viva.png
+
+# Dados e formulários
+*.xlsx
+*.xls
+
 # System files
 .DS_Store
 Thumbs.db
