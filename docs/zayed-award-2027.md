@@ -48,4 +48,4 @@ O prazo oficial é **1º de outubro de 2026, às 23h59 GMT**.
 
 - [Página do prêmio](https://www.zayedaward.org/)
 - [Guia do nomeador 2027](https://www.zayedaward.org/pdfs/EligibleNominatorsBookletEN_2027.pdf)
-
+- [Ficha analítica do guia](ficha-guia-zayed-2027.md)
