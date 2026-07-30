@@ -2,63 +2,72 @@
 
 ## Princípio
 
-O Coletivo Terra Viva define suas prioridades, valida sua história e decide sobre a divulgação de informações. A assessoria técnica não substitui a decisão territorial.
+O Coletivo Terra Viva define prioridades, valida sua história e decide o que pode ser
+divulgado. Apoio técnico não substitui decisão territorial nem concede representação.
 
-## Atribuições
+## Papéis
 
-| Participante | Atribuição |
+| Participante | Papel |
 |---|---|
-| Coletivo Terra Viva | Prioridades, validação, autorizações e execução territorial |
-| Ponto focal territorial | Organizar respostas, documentos e decisões do coletivo |
-| Núcleo Takwara | Curadoria documental, apoio técnico, inteligência de oportunidades e infraestrutura digital |
-| ECOSALA | Mobilizar competências profissionais por demanda e adesão |
-| Acervo Soberania Tecnológica | Fornecer referências científicas e técnicas verificáveis |
-| Parceiros externos | Atuar somente mediante aceite e definição de responsabilidade |
+| Coletivo Terra Viva | definir prioridades, validar informações e autorizar ações |
+| Ponto focal territorial | organizar respostas, decisões e documentos |
+| Núcleo Takwara | curadoria documental, apoio técnico e inteligência de oportunidades |
+| ECOSALA | mobilizar profissionais conforme demanda e adesão |
+| Acervo Soberania Tecnológica | reunir referências científicas verificáveis |
+| Parceiros | executar somente o que for expressamente aceito |
 
-## Fluxo de demanda
+## Como uma demanda avança
 
-1. o coletivo apresenta uma necessidade;
-2. o ponto focal confirma prioridade e contexto;
-3. o Núcleo Takwara organiza a demanda;
-4. profissionais são convidados conforme a competência necessária;
-5. entregáveis, prazos e condições são pactuados;
-6. o coletivo valida o resultado;
-7. somente a versão autorizada pode ser publicada.
+1. o coletivo apresenta e prioriza a necessidade;
+2. o ponto focal confirma contexto e responsável;
+3. a demanda recebe entregável, prazo e classificação de acesso;
+4. profissionais ou parceiros aceitam atribuições específicas;
+5. o coletivo valida o resultado;
+6. somente a versão autorizada pode ser publicada.
 
-## Documentos a pactuar
+## Registro mínimo
 
-- termo de anuência para assessoria;
-- indicação de ponto focal;
-- matriz de responsabilidades;
-- autorização de uso de imagem e depoimentos;
-- política de proteção documental;
-- ficha de demanda à ECOSALA;
-- declaração sobre vínculos institucionais;
-- termo específico para cada candidatura ou parceria.
+Toda frente deve informar:
 
-## Matriz mínima de acompanhamento
-
-Toda frente deverá registrar:
-
-| Elemento | Regra |
+| Elemento | Registro |
 |---|---|
-| Decisão | instância e data da validação |
-| Responsável | ponto focal que acompanha a entrega |
-| Apoio | pessoa ou organização que aceitou colaborar |
-| Entregável | produto objetivo e verificável |
+| Decisão | quem validou e quando |
+| Responsável | quem acompanha a execução |
+| Entregável | produto objetivo |
 | Prazo | data pactuada |
 | Evidência | fonte e local de custódia |
 | Acesso | público, interno ou sensível |
 | Situação | proposta, aprovada, em execução, concluída ou suspensa |
 
-Sem decisão, responsável e entregável, a demanda permanece como possibilidade e não
-deve ser apresentada como projeto em execução.
+Sem decisão, responsável e entregável, uma ideia permanece como possibilidade.
+
+## Proteção do acervo
+
+Há três camadas:
+
+- **pública:** sínteses validadas e autorizadas;
+- **interna:** propostas, conversas e evidências em análise;
+- **sensível:** documentos pessoais, bancários, administrativos e territoriais.
+
+Arquivos internos e sensíveis ficam fora do Git público. Imagem, voz e depoimento exigem
+autorização. Cada afirmação externa deve ter fonte, data, responsável pela validação e
+classificação de acesso.
+
+## Documentos a pactuar quando necessários
+
+- indicação do ponto focal;
+- matriz de responsabilidades;
+- termo de anuência ou parceria;
+- autorização de imagem, voz e depoimento;
+- ficha de demanda à ECOSALA;
+- declaração de vínculos institucionais;
+- termo específico para candidatura ou captação.
 
 ## Limites
 
-- participação em reunião não significa adesão a um projeto;
-- apoio técnico não significa representação;
-- intenção não significa compromisso institucional;
+- reunião não significa adesão;
+- apoio não significa representação;
+- intenção não significa compromisso;
 - referência científica não comprova aplicação territorial;
-- proposta futura não pode ser apresentada como realização;
+- proposta futura não pode ser descrita como realização;
 - dados pessoais e bancários não são publicados.

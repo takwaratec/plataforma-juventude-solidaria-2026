@@ -46,6 +46,11 @@ O resultado preliminar não contemplou a proposta. Em 22 de junho, foi encaminha
 
 O material disponível não contém confirmação documental do resultado definitivo. Essa situação permanece pendente de verificação em fonte oficial.
 
+O processo deixou aprendizados permanentes: começar a preparação com antecedência,
+separar proposta técnica de documentos administrativos, definir responsabilidades,
+dimensionar o projeto conforme os recursos e manter evidências organizadas sem expor
+dados pessoais.
+
 ## Continuidade independente do edital
 
 Após o resultado preliminar, participantes manifestaram interesse em continuar a
@@ -100,12 +105,9 @@ O prazo oficial é 1º de outubro de 2026, às 23h59 GMT. A frente permanece con
 - pessoa autorizada a validar informações;
 - autorização de uso de imagens e depoimentos.
 
-## Fontes preservadas
+## Base documental
 
 A síntese foi construída a partir das conversas diretas e do grupo da Plataforma
 Juventude Solidária, das propostas de viveiro, da planilha orçamentária e do projeto
 ECOSALA Itinerante existentes no acervo local. Os documentos integrais permanecem fora
 da publicação por conterem dados pessoais, anexos e afirmações ainda não validadas.
-
-O inventário e as regras de custódia estão em [Memória e preservação do
-acervo](memoria-preservacao.md).

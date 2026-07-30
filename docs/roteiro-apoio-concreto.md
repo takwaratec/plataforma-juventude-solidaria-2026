@@ -5,7 +5,22 @@
 Transformar necessidades do coletivo em demandas executáveis, com decisão territorial,
 responsável, evidência, prazo e entrega verificável.
 
-## Porta de entrada
+## Frentes
+
+| Frente | Próxima entrega |
+|---|---|
+| Memória | linha do tempo e evidências validadas |
+| Viveiro-Educador | diagnóstico atual, escala, responsáveis e orçamento |
+| Juventude | escuta, formação e indicadores |
+| Saúde, cuidado e cultura | agenda e rede de apoio definida pelo coletivo |
+| Qualificação institucional | ponto focal, documentos e responsabilidades |
+| Editais e parcerias | matriz de requisitos e decisão por oportunidade |
+| Zayed 2027 | dossiê probatório e nomeador elegível |
+| CAF e políticas públicas | orientação por agentes habilitados |
+| Ferramenta offline | requisitos, proteção de dados e protótipo |
+| Tecnologias futuras | projeto e validação próprios para cada solução |
+
+## Ficha de entrada
 
 Para cada demanda, o ponto focal deverá preencher:
 
@@ -120,7 +135,7 @@ Entregas:
 - identificação e abordagem de nomeador elegível;
 - biografia, linha do tempo e relatório de impacto;
 - cartas e depoimentos verificáveis;
-- versões em português, inglês e árabe;
+- versão de trabalho em português e versão final em inglês, árabe ou francês;
 - conferência final do nomeador antes da submissão.
 
 O prêmio reconhece trajetória. Viveiro, aplicativo, CAF, saneamento e tecnologias futuras
@@ -171,4 +186,3 @@ ECOSALA e Acervo não assumem representação, execução ou compromisso por sim
 6. organizar evidências e documentos no ambiente privado;
 7. emitir convites profissionais somente para entregas definidas;
 8. revisar mensalmente pendências, responsáveis e resultados.
-

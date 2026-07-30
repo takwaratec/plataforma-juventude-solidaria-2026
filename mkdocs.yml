@@ -57,13 +57,10 @@ exclude_docs: |
 
 nav:
   - Início: index.md
-  - Histórico consolidado: historico-consolidado.md
-  - Memória e preservação: memoria-preservacao.md
-  - Governança e colaboração: governanca-colaboracao.md
-  - Roteiro de apoio concreto: roteiro-apoio-concreto.md
-  - Frentes e encaminhamentos: frentes-encaminhamentos.md
-  - Zayed Award 2027: zayed-award-2027.md
-  - Ficha do guia Zayed 2027: ficha-guia-zayed-2027.md
-  - Juventude Solidária 2026: juventude-solidaria-2026.md
-  - Acervo científico: https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/
-  - ECOSALA: https://takwaratec.github.io/ECOSALA/territorios/reforma-agraria-agrofloresta/
+  - Histórico: historico-consolidado.md
+  - Governança: governanca-colaboracao.md
+  - Plano de apoio: roteiro-apoio-concreto.md
+  - Zayed 2027: zayed-award-2027.md
+  - Referências:
+      - Acervo científico: https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/
+      - ECOSALA: https://takwaratec.github.io/ECOSALA/territorios/reforma-agraria-agrofloresta/

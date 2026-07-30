@@ -1,42 +1,27 @@
 # Terra Viva — Mário Lago
 
-Repositório de memória, orientação e qualificação documental do **Coletivo Terra Viva**, com atuação territorial no Assentamento Mário Lago, em Ribeirão Preto (SP).
+Repositório público de memória e orientação do Coletivo Terra Viva, com atuação no
+Assentamento Mário Lago, em Ribeirão Preto (SP).
 
-O repositório preserva o histórico da proposta apresentada à Plataforma Juventude Solidária em 2026 e passa a apoiar frentes permanentes de organização, formação, recuperação ambiental e acesso responsável a oportunidades.
+## Documentação
 
-## Relações de colaboração
+- [Site público](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/)
+- [Histórico](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/historico-consolidado/)
+- [Governança](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/governanca-colaboracao/)
+- [Plano de apoio](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/roteiro-apoio-concreto/)
+- [Zayed 2027](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/zayed-award-2027/)
 
-- **Coletivo Terra Viva:** define prioridades, valida informações e autoriza a divulgação de sua atuação.
-- **Núcleo Takwara:** apoio técnico, curadoria documental, inteligência de oportunidades e infraestrutura digital.
-- **ECOSALA:** rede de profissionais que pode ser mobilizada por demanda, mediante adesão e definição de entregáveis.
-- **Acervo Soberania Tecnológica:** lastro científico e técnico verificável.
+## Colaboração
 
-Essas relações não autorizam qualquer participante a representar o MST, o assentamento ou o coletivo sem mandato específico.
+O coletivo define prioridades e autoriza divulgações. O Núcleo Takwara presta apoio
+técnico e documental. A ECOSALA pode mobilizar profissionais por demanda e adesão. O
+Acervo Soberania Tecnológica reúne referências científicas quando disponíveis.
 
-## Frentes
+Essas relações não conferem representação automática do MST, do assentamento ou do
+coletivo.
 
-- memória e identidade territorial;
-- Viveiro-Educador e recuperação ambiental;
-- juventude, formação e geração de renda;
-- qualificação institucional;
-- assessoria técnica da ECOSALA;
-- Zayed Award for Human Fraternity 2027;
-- orientação para políticas públicas, em fluxo próprio;
-- prospecção de ferramenta offline para triagem documental.
+## Publicação
 
-Cada frente possui requisitos próprios. CAF, regularização territorial, aplicativo e Viveiro-Educador não são exigências do Zayed Award.
-
-## Conteúdo público
-
-O site publica somente páginas validadas e sem dados pessoais:
-
-<https://takwaratec.github.io/plataforma-juventude-solidaria-2026/>
-
-Documentos administrativos, formulários preenchidos, conversas, mídias brutas, dados bancários, mapas sensíveis e identificadores pessoais não pertencem à publicação pública.
-
-## Referências
-
-- [ECOSALA](https://takwaratec.github.io/ECOSALA/)
-- [Acervo — Reforma Agrária e Agrofloresta](https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/)
-
-*Organização documental e infraestrutura digital: Tecnologia Takwara · 2026.*
+O Git contém somente documentação pública sanitizada. Conversas, formulários,
+documentos pessoais, dados bancários, mapas sensíveis e mídias brutas permanecem fora do
+versionamento.
