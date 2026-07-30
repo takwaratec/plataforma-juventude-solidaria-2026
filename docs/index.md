@@ -41,7 +41,7 @@ O CAF e a possível ferramenta offline pertencem à qualificação para polític
 
 ## Lastro científico
 
-A gaveta [Reforma Agrária e Agrofloresta](https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/) reúne referências verificáveis sobre agricultura familiar, agroecologia, sistemas agroflorestais, educação do campo, juventude rural e restauração.
+A gaveta [Reforma Agrária e Agrofloresta](https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/) foi criada para reunir referências verificáveis sobre agricultura familiar, agroecologia, sistemas agroflorestais, educação do campo, juventude rural e restauração. No momento, está vazia e aguarda sugestões de trabalhos, autores e fontes para curadoria.
 
 A [ECOSALA](https://takwaratec.github.io/ECOSALA/territorios/reforma-agraria-agrofloresta/) organiza o fluxo de assessoria e mobilização profissional.
 
