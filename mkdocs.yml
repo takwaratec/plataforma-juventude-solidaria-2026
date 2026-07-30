@@ -33,12 +33,20 @@ extra:
   generator: false
 
 markdown_extensions:
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.details
   - admonition
   - tables
   - attr_list
   - md_in_html
+
+extra_javascript:
+  - https://unpkg.com/mermaid@11/dist/mermaid.min.js
+  - assets/javascripts/mermaid.js
 
 plugins:
   - search
@@ -59,7 +67,9 @@ nav:
   - Início: index.md
   - Histórico: historico-consolidado.md
   - Governança: governanca-colaboracao.md
-  - Plano de apoio: roteiro-apoio-concreto.md
+  - Plano de apoio:
+      - Roteiro geral: roteiro-apoio-concreto.md
+      - App de triagem documental: app-triagem-regularizacao.md
   - Zayed 2027: zayed-award-2027.md
   - Referências:
       - Acervo científico: https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/

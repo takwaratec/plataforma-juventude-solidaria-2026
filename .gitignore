@@ -29,6 +29,9 @@ docs/assets/**
 !docs/assets/images/
 docs/assets/images/**
 !docs/assets/images/terra_viva.png
+!docs/assets/javascripts/
+docs/assets/javascripts/**
+!docs/assets/javascripts/mermaid.js
 
 # Dados e formulários
 *.xlsx

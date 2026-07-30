@@ -159,9 +159,13 @@ Entregas:
 - mapa do fluxo documental real;
 - requisitos de funcionamento sem internet;
 - avaliação de segurança, consentimento e minimização de dados;
-- protótipo limitado à orientação e triagem;
+- protótipo limitado à orientação, triagem e preparação para assinatura;
+- geração individual e em lote dos cadernos familiares;
 - teste controlado;
 - definição de responsável por manutenção e atendimento.
+
+O esquema funcional, os campos, os documentos oficiais e os limites do aplicativo estão
+descritos em [Aplicativo de triagem documental para regularização](app-triagem-regularizacao.md).
 
 ### 10. Articulação ECOSALA e base científica
 
