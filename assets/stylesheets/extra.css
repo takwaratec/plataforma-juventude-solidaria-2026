@@ -1,21 +1,59 @@
-.md-typeset .mermaid {
+.flow-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: start;
+}
+
+.flow-column h3 {
+  margin-top: 0;
   text-align: center;
 }
 
-.md-typeset .mermaid svg {
+.flow-column .mermaid {
+  margin: 0;
+  text-align: center;
+}
+
+.flow-column .mermaid svg {
   display: block;
   width: 100%;
-  max-width: 560px !important;
+  max-width: 320px !important;
   height: auto;
   margin: 0 auto;
 }
 
-@media screen and (max-width: 600px) {
-  .md-typeset .mermaid {
-    margin-inline: -0.25rem;
+.md-typeset .mermaid .node rect,
+.md-typeset .mermaid .node polygon,
+.md-typeset .mermaid .node path {
+  fill: var(--md-default-bg-color) !important;
+  stroke: var(--md-primary-fg-color) !important;
+  stroke-width: 2px !important;
+}
+
+.md-typeset .mermaid .nodeLabel,
+.md-typeset .mermaid .label,
+.md-typeset .mermaid span,
+.md-typeset .mermaid p {
+  color: var(--md-default-fg-color) !important;
+}
+
+.md-typeset .mermaid .flowchart-link {
+  stroke: var(--md-default-fg-color--lighter) !important;
+}
+
+.md-typeset .mermaid marker path {
+  fill: var(--md-default-fg-color--lighter) !important;
+  stroke: var(--md-default-fg-color--lighter) !important;
+}
+
+@media screen and (max-width: 760px) {
+  .flow-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
   }
 
-  .md-typeset .mermaid svg {
+  .flow-column .mermaid svg {
     max-width: 100% !important;
   }
 }

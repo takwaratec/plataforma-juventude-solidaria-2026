@@ -497,6 +497,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Fluxo de coleta, assinatura e encaminhamento">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-agente-e-aplicativo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Agente e aplicativo
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-documento-fisico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Documento físico
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-canal-publico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Canal público
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -936,6 +975,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Fluxo de coleta, assinatura e encaminhamento">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-agente-e-aplicativo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Agente e aplicativo
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-documento-fisico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Documento físico
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-canal-publico" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Canal público
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1204,29 +1282,36 @@ checklist, documentos digitalizados e formulários aplicáveis. Depois da revis�
 poderá gerar em lote os cadernos de cada família para conferência e assinatura em uma nova
 visita.</p>
 <h2 id="fluxo-de-coleta-assinatura-e-encaminhamento">Fluxo de coleta, assinatura e encaminhamento</h2>
-<pre class="mermaid"><code>%%{init: {"flowchart": {"curve": "linear", "nodeSpacing": 18, "rankSpacing": 28}, "themeVariables": {"fontSize": "16px"}}}%%
-flowchart TD
-    A["1 · PREPARAÇÃO&lt;br/&gt;Famílias, finalidade e agente responsável"]
-    B["2 · AGENTE — COLETA OFFLINE&lt;br/&gt;Dados, ocupação, lote e documentos"]
-    C["3 · AGENTE — TRIAGEM&lt;br/&gt;Conferir legibilidade, coerência e pendências"]
-    D["4 · DEFINIR O PROCEDIMENTO&lt;br/&gt;Ocupante · PNRA · CCU · título · CAF"]
-    E["5 · AGENTE — DOSSIÊ&lt;br/&gt;Checklist, provas e formulários aplicáveis"]
-    F["6 · FÍSICO — IMPRESSÃO EM LOTE&lt;br/&gt;Um caderno identificado por família"]
-    G["7 · FÍSICO — SEGUNDA VISITA&lt;br/&gt;Originais, correções, ciência e assinaturas"]
-    H["8 · AGENTE — DIGITALIZAÇÃO&lt;br/&gt;Conjunto assinado e anexos conferidos"]
-    I["9 · ESCOLHER O CANAL PÚBLICO&lt;br/&gt;PGT/Incra · CAFWeb · atendimento presencial"]
-    J["10 · EXECUÇÃO AUTORIZADA&lt;br/&gt;PGT: requerente com gov.br próprio&lt;br/&gt;CAFWeb: cadastrador habilitado"]
-    K["11 · ACOMPANHAMENTO&lt;br/&gt;Protocolo, exigências, correções e resultado"]
-
-    A --&gt; B --&gt; C --&gt; D --&gt; E --&gt; F --&gt; G --&gt; H --&gt; I --&gt; J --&gt; K
-
-    classDef agente fill:#e8f5e9,stroke:#2e7d32,color:#1b1b1b;
-    classDef fisico fill:#fff3e0,stroke:#ef6c00,color:#1b1b1b;
-    classDef publico fill:#e3f2fd,stroke:#1565c0,color:#1b1b1b;
-
-    class B,C,E,H agente;
-    class F,G fisico;
-    class I,J,K publico;</code></pre>
+<div class="flow-grid">
+<div class="flow-column">
+<h3 id="1-agente-e-aplicativo">1. Agente e aplicativo</h3>
+<pre class="mermaid"><code>flowchart TD
+    A["1 · PREPARAÇÃO&lt;br/&gt;Famílias, finalidade&lt;br/&gt;e agente responsável"]
+    B["2 · COLETA OFFLINE&lt;br/&gt;Dados, ocupação, lote&lt;br/&gt;e documentos"]
+    C["3 · TRIAGEM&lt;br/&gt;Coerência, legibilidade&lt;br/&gt;e pendências"]
+    D["4 · PROCEDIMENTO&lt;br/&gt;Ocupante · PNRA · CCU&lt;br/&gt;título · CAF"]
+    E["5 · DOSSIÊ&lt;br/&gt;Checklist, provas&lt;br/&gt;e formulários"]
+    A --&gt; B --&gt; C --&gt; D --&gt; E</code></pre>
+</div>
+<div class="flow-column">
+<h3 id="2-documento-fisico">2. Documento físico</h3>
+<pre class="mermaid"><code>flowchart TD
+    F["6 · IMPRESSÃO EM LOTE&lt;br/&gt;Um caderno&lt;br/&gt;por família"]
+    G["7 · SEGUNDA VISITA&lt;br/&gt;Conferir documentos&lt;br/&gt;originais"]
+    H["8 · ASSINATURAS&lt;br/&gt;Ciência, declarações&lt;br/&gt;e recibo"]
+    I["9 · DIGITALIZAÇÃO&lt;br/&gt;Conjunto assinado&lt;br/&gt;e anexos"]
+    F --&gt; G --&gt; H --&gt; I</code></pre>
+</div>
+<div class="flow-column">
+<h3 id="3-canal-publico">3. Canal público</h3>
+<pre class="mermaid"><code>flowchart TD
+    J["10 · ESCOLHER O CANAL&lt;br/&gt;PGT/Incra · CAFWeb&lt;br/&gt;atendimento presencial"]
+    K["11 · EXECUÇÃO&lt;br/&gt;PGT: requerente&lt;br/&gt;CAF: cadastrador habilitado"]
+    L["12 · PROTOCOLO&lt;br/&gt;Registrar número&lt;br/&gt;e pendências"]
+    M["13 · RETORNO À FAMÍLIA&lt;br/&gt;Exigências, correções&lt;br/&gt;ou resultado"]
+    J --&gt; K --&gt; L --&gt; M</code></pre>
+</div>
+</div>
 <p><strong>Agente comunitário:</strong> coleta, confere, organiza, digitaliza, imprime e orienta.</p>
 <p><strong>Documento físico:</strong> originais, declarações aplicáveis, autorização de encaminhamento,
 assinaturas e recibo.</p>
